@@ -1,0 +1,12 @@
+﻿1
+00:00:00,172 --> 00:00:02,008
+Elena Böhm von der Tageszeitung,
+
+2
+00:00:02,008 --> 00:00:03,835
+ich bräuchte eine Akte aus Ihrem Archiv.
+
+3
+00:00:04,695 --> 00:00:06,031
+Um welche Akte geht es denn?
+

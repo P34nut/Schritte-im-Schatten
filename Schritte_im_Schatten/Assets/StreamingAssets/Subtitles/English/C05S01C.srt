@@ -1,0 +1,13 @@
+﻿1
+00:00:05,750 --> 00:00:07,103
+Here you are.
+My article for tomorrow.
+
+2
+00:00:13,671 --> 00:00:14,742
+Thanks Elena.
+
+3
+00:00:15,273 --> 00:00:16,898
+That will be for page 8.
+

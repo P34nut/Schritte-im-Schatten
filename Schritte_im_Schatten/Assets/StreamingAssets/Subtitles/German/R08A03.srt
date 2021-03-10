@@ -1,0 +1,8 @@
+﻿1
+00:00:04,867 --> 00:00:05,867
+Eine Axt?
+
+2
+00:00:07,094 --> 00:00:09,054
+Hier wurde seit Langem nicht gearbeitet.
+

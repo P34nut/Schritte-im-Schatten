@@ -1,0 +1,8 @@
+﻿1
+00:00:00,180 --> 00:00:02,125
+Can`t you simply give me the file?
+
+2
+00:00:03,078 --> 00:00:04,359
+No, we don`t work that way sorry!
+

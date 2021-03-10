@@ -1,0 +1,12 @@
+﻿1
+00:00:21,667 --> 00:00:23,906
+Daniel worked for Rene.
+
+2
+00:00:27,604 --> 00:00:28,984
+They knew each other.
+
+3
+00:00:29,036 --> 00:00:31,197
+Actually they were friends.
+

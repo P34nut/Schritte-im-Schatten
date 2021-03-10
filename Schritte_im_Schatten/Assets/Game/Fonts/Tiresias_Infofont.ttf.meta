@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 38ba3bf000c726e4da6206e2b6f59c60
+timeCreated: 1586441228
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tiresias Infofont
+  fontNames:
+  - Tiresias Infofont
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

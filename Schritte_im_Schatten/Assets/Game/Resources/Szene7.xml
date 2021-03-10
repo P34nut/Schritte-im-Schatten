@@ -1,0 +1,210 @@
+<VideoCollection>
+  <Videos>
+    <Video name="C16S01C">
+      <VideoID>0</VideoID>
+      <Timer>0</Timer>
+      <BlockID>0</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>true</Subtitle>
+      <State>0</State>
+      <Preloads>
+        <Preload text="R09L01A"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="R09L01A">
+      <VideoID>1</VideoID>
+      <Timer>0</Timer>
+      <BlockID>1</BlockID>
+      <Loop>true</Loop>
+      <Subtitle>false</Subtitle>
+      <State>2</State>
+      <Preloads>
+        <Preload text="C17S01C"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C17S01C">
+      <VideoID>2</VideoID>
+      <Timer>0</Timer>
+      <BlockID>2</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>true</Subtitle>
+      <State>1</State>
+      <Preloads>
+        <Preload text="C18S01DA"></Preload>
+        <Preload text="C18S01DB"></Preload>
+        <Preload text="C18S01DC"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C18S01DA">
+      <VideoID>3</VideoID>
+      <Timer>0</Timer>
+      <BlockID>0</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>true</Subtitle>
+      <State>0</State>
+      <Preloads>
+        <Preload text="R09L01A"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C18S01DB">
+      <VideoID>4</VideoID>
+      <Timer>0</Timer>
+      <BlockID>3</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>true</Subtitle>
+      <State>1</State>
+      <Preloads>
+        <Preload text="C18S02DA"></Preload>
+        <Preload text="C18S02DB"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C18S01DC">
+      <VideoID>5</VideoID>
+      <Timer>0</Timer>
+      <BlockID>3</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>true</Subtitle>
+      <State>1</State>
+      <Preloads>
+        <Preload text="C18S02DA"></Preload>
+        <Preload text="C18S02DB"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C18S02DA">
+      <VideoID>6</VideoID>
+      <Timer>0</Timer>
+      <BlockID>4</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>true</Subtitle>
+      <State>0</State>
+      <Preloads>
+        <Preload text="C20S01C"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C18S02DB">
+      <VideoID>7</VideoID>
+      <Timer>0</Timer>
+      <BlockID>0</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>true</Subtitle>
+      <State>0</State>
+      <Preloads>
+        <Preload text="R09L01A"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C19S01D">
+      <VideoID>8</VideoID>
+      <Timer>0</Timer>
+      <BlockID>4</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>true</Subtitle>
+      <State>0</State>
+      <Preloads>
+        <Preload text="C20S01C"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C20S01C">
+      <VideoID>9</VideoID>
+      <Timer>0</Timer>
+      <BlockID>6</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>true</Subtitle>
+      <State>0</State>
+      <Preloads>
+        <Preload text="S8"></Preload>
+      </Preloads>
+    </Video>
+  </Videos>
+  <Textblock>
+    <Block id="0">
+      <Option>
+        <interactive>false</interactive>
+        <nextVideoID>1</nextVideoID>
+      </Option>
+    </Block>
+    <Block id="1">
+      <Option>
+        <interactive>false</interactive>
+        <nextVideoID>2</nextVideoID>
+      </Option>
+    </Block>
+    <Block id="2">
+      <Option>
+        <interactive>false</interactive>
+        <Texte>
+          <Text>Elena Böhm</Text>
+          <Text>Elena Böhm</Text>
+        </Texte>
+        <nextVideoID>3</nextVideoID>
+      </Option>
+      <Option>
+        <interactive>false</interactive>
+        <Texte>
+          <Text>Frau Engels?</Text>
+          <Text>Mrs Engels?</Text>
+        </Texte>
+        <nextVideoID>4</nextVideoID>
+      </Option>
+      <Option>
+        <interactive>false</interactive>
+        <Texte>
+          <Text>Gudrun?</Text>
+          <Text>Gudrun?</Text>
+        </Texte>
+        <nextVideoID>5</nextVideoID>
+      </Option>
+      <Option>
+        <interactive>false</interactive>
+        <nextVideoID>8</nextVideoID>
+      </Option>
+    </Block>
+    <Block id="3">
+      <Option>
+        <interactive>false</interactive>
+        <Texte>
+          <Text>Umgezogen?</Text>
+          <Text>Moved?</Text>
+        </Texte>
+        <nextVideoID>6</nextVideoID>
+      </Option>
+      <Option>
+        <interactive>false</interactive>
+        <Texte>
+          <Text>Tut mir leid</Text>
+          <Text>I'm sorry</Text>
+        </Texte>
+        <nextVideoID>7</nextVideoID>
+      </Option>
+    </Block>
+    <Block id="4">
+      <Option>
+        <interactive>false</interactive>
+        <nextVideoID>9</nextVideoID>
+      </Option>
+    </Block>
+    <Block id="5">
+      <Option>
+        <interactive>false</interactive>
+        <Texte>
+          <Text>Frau Engels?</Text>
+          <Text>Mrs Engels?</Text>
+        </Texte>
+        <nextVideoID>4</nextVideoID>
+      </Option>
+      <Option>
+        <interactive>false</interactive>
+        <Texte>
+          <Text>Gudrun Engels?</Text>
+          <Text>Gudrun Engels?</Text>
+        </Texte>
+        <nextVideoID>8</nextVideoID>
+      </Option>
+    </Block>
+    <Block id="6">
+      <Option>
+        <interactive>false</interactive>
+        <nextVideoID>-1</nextVideoID>
+      </Option>
+    </Block>
+  </Textblock>
+</VideoCollection>

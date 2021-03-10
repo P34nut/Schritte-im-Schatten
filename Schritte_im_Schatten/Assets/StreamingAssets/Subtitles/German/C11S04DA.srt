@@ -1,0 +1,13 @@
+﻿1
+00:00:00,016 --> 00:00:02,085
+Ich möchte einen Artikel
+für die Tageszeitung schreiben.
+
+2
+00:00:02,469 --> 00:00:04,539
+Dieser Fall könnte ne tolle Story ergeben.
+
+3
+00:00:05,938 --> 00:00:08,351
+Na gut, Mal schauen ob ich etwas finde.
+

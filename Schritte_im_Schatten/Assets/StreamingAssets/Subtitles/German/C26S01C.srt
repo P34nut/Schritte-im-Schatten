@@ -1,0 +1,37 @@
+﻿1
+00:00:29,387 --> 00:00:30,872
+<i>Hallo?</i>
+
+2
+00:00:31,042 --> 00:00:33,828
+Hallo Herr Obermeier.
+Kamp hier. Ich hab Neuigkeiten.
+
+3
+00:00:33,828 --> 00:00:37,317
+<i>Haben Sie Lars gefunden? Wie geht es ihm?</i>
+
+4
+00:00:37,318 --> 00:00:39,295
+Ja, ich hab ihn gefunden.
+
+5
+00:00:40,495 --> 00:00:42,305
+Aber gut geht’s ihm nicht mehr.
+
+6
+00:00:42,305 --> 00:00:44,375
+Haben Sie Zeit sich mit mir zu treffen?
+
+7
+00:00:44,609 --> 00:00:47,188
+<i>Ja, ich bin in einer Stunde im Café König.</i>
+
+8
+00:00:47,188 --> 00:00:48,867
+<i>Wir können uns dort treffen.</i>
+
+9
+00:00:48,867 --> 00:00:51,484
+Alles klar, bis dann.
+

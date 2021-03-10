@@ -1,0 +1,13 @@
+﻿1
+00:00:00,992 --> 00:00:03,250
+Hallo hier ist Elena Böhm
+von der Tageszeitung.
+
+2
+00:00:03,250 --> 00:00:04,570
+Ich kaufe nix.
+
+3
+00:00:09,828 --> 00:00:11,054
+Alte Schrulle.
+

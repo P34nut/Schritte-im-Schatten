@@ -1,0 +1,8 @@
+﻿1
+00:00:03,203 --> 00:00:04,554
+Das geht Sie nichts an.
+
+2
+00:00:06,258 --> 00:00:08,679
+Schön. Ich brauch Sie gar nicht.
+

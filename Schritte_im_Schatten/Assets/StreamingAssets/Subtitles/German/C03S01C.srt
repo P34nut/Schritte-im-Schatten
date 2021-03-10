@@ -1,0 +1,65 @@
+﻿1
+00:00:02,605 --> 00:00:04,351
+Rene Kamp, Privatdetektiv.
+
+2
+00:00:04,789 --> 00:00:06,851
+<i>Hallo, hier ist Edgar Obermeier.</i>
+
+3
+00:00:07,320 --> 00:00:09,258
+<i>Ich rufe an,
+weil sie mir weiterhelfen müssen,</i>
+
+4
+00:00:09,259 --> 00:00:10,937
+<i>mein guter Freund Lars ist verschwunden.</i>
+
+5
+00:00:11,289 --> 00:00:13,515
+<i>Wir wollten uns treffen,
+aber er ist nicht zu erreichen.</i>
+
+6
+00:00:14,460 --> 00:00:15,972
+Haben Sie die Polizei informiert?
+
+7
+00:00:16,238 --> 00:00:19,800
+<i>Ja, ja, aber sie sagten,
+er wäre noch nicht lange genug vermisst,</i>
+
+8
+00:00:19,800 --> 00:00:22,503
+<i>um eine Suchaktion zu starten.
+Er lässt einen nie hängen.</i>
+
+9
+00:00:22,503 --> 00:00:25,839
+<i>Ihm muss etwas passiert sein!
+Bitte helfen sie mir.</i>
+
+10
+00:00:26,972 --> 00:00:28,221
+Okay.
+
+11
+00:00:30,929 --> 00:00:32,857
+Wann und wo haben Sie ihn
+das letzte Mal gesehen?
+
+12
+00:00:32,882 --> 00:00:35,636
+<i>Gestern, in seiner Wohnung
+in der Palmengasse 12.</i>
+
+13
+00:00:35,636 --> 00:00:37,722
+<i>Seitdem habe ich nichts mehr
+von ihm gehört.</i>
+
+14
+00:00:37,722 --> 00:00:41,922
+<i>Bin heute früh schon dagewesen,
+aber er war nicht anzutreffen.</i>
+

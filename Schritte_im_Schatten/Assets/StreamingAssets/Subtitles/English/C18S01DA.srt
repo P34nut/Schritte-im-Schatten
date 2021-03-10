@@ -1,0 +1,13 @@
+﻿1
+00:00:00,992 --> 00:00:03,250
+Hello. I am Elena Böhm
+from the Daily News.
+
+2
+00:00:03,250 --> 00:00:04,570
+I am not buying anything.
+
+3
+00:00:09,828 --> 00:00:11,054
+Old croney!
+

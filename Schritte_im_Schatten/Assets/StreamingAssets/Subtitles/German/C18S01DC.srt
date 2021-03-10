@@ -1,0 +1,8 @@
+﻿1
+00:00:00,781 --> 00:00:02,367
+Gudrun, sind Sie’s?
+
+2
+00:00:02,758 --> 00:00:05,398
+Nein, Sie müssen sich verwählt haben.
+

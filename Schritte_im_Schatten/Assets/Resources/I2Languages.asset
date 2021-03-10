@@ -1,0 +1,2342 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: Texte/JA
+      TermType: 0
+      Description: 
+      Languages:
+      - Ja
+      - Yes
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/NEIN
+      TermType: 0
+      Description: 
+      Languages:
+      - Nein
+      - No
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/WARNUNG_BILD
+      TermType: 5
+      Description: 
+      Languages:
+      - popup_ingame_Texte
+      - popup_ingame_Texte_en
+      Flags: 0000
+      Languages_Touch: []
+    - Term: "Texte/ZUR\xDCCK"
+      TermType: 0
+      Description: 
+      Languages:
+      - "Zur\xFCck"
+      - Back
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/GRAFIK
+      TermType: 0
+      Description: 
+      Languages:
+      - Grafik
+      - Graphics
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/VOLLBILD
+      TermType: 0
+      Description: 
+      Languages:
+      - Vollbild
+      - Fullscreen
+      Flags: 0000
+      Languages_Touch: []
+    - Term: "Texte/AUFL\xD6SUNG"
+      TermType: 0
+      Description: 
+      Languages:
+      - "Aufl\xF6sung"
+      - Resolution
+      Flags: 0000
+      Languages_Touch: []
+    - Term: "Texte/LAUTST\xC4RKE"
+      TermType: 0
+      Description: 
+      Languages:
+      - "Lautst\xE4rke"
+      - Volume
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/UNTERTITEL
+      TermType: 0
+      Description: 
+      Languages:
+      - Untertitel
+      - Subtitle
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/SPRACHE
+      TermType: 0
+      Description: 
+      Languages:
+      - Sprache
+      - Languague
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/STANDARDEINSTELLUNGEN
+      TermType: 0
+      Description: 
+      Languages:
+      - Standardeinstellungen
+      - Default Settings
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/FORTSETZEN
+      TermType: 0
+      Description: 
+      Languages:
+      - Fortsetzen
+      - Continue
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/NEUES SPIEL
+      TermType: 0
+      Description: 
+      Languages:
+      - Neues Spiel
+      - New Game
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/KAPITELAUSWAHL
+      TermType: 0
+      Description: 
+      Languages:
+      - Kapitelauswahl
+      - Chapter Selection
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/EINSTELLUNGEN
+      TermType: 0
+      Description: 
+      Languages:
+      - Einstellungen
+      - Options
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/JOURNALE
+      TermType: 0
+      Description: 
+      Languages:
+      - Journale
+      - Journals
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/BEENDEN
+      TermType: 0
+      Description: 
+      Languages:
+      - Beenden
+      - Quit
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/WEITERSPIELEN
+      TermType: 0
+      Description: 
+      Languages:
+      - Weiterspielen
+      - Continue
+      Flags: 0000
+      Languages_Touch: []
+    - Term: "Texte/HAUPTMEN\xDC"
+      TermType: 0
+      Description: 
+      Languages:
+      - "Hauptmen\xFC"
+      - Main Menu
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/PAUSE_BILD
+      TermType: 5
+      Description: 
+      Languages:
+      - menue_ingame_TXT_pause
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/OPTIONEN_BILD
+      TermType: 5
+      Description: 
+      Languages:
+      - settings_ingame_Header
+      - settings_ingame_Header_en
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/AKTIVIEREN
+      TermType: 0
+      Description: 
+      Languages:
+      - Aktivieren
+      - Enable
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/Haar
+      TermType: 0
+      Description: 
+      Languages:
+      - Haar
+      - Hair
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/Augen
+      TermType: 0
+      Description: 
+      Languages:
+      - Augen
+      - Eyes
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/Nase
+      TermType: 0
+      Description: 
+      Languages:
+      - Nase
+      - Nose
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/Bart
+      TermType: 0
+      Description: 
+      Languages:
+      - Bart
+      - Beard
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/Mund
+      TermType: 0
+      Description: 
+      Languages:
+      - Mund
+      - Mouth
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/Drucken
+      TermType: 0
+      Description: 
+      Languages:
+      - Drucken
+      - Print
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/Links
+      TermType: 0
+      Description: 
+      Languages:
+      - Links
+      - Left
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/Rechts
+      TermType: 0
+      Description: 
+      Languages:
+      - Rechts
+      - Right
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/Geradeaus
+      TermType: 0
+      Description: 
+      Languages:
+      - Gerade aus
+      - Straight
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/Polizei rufen
+      TermType: 0
+      Description: 
+      Languages:
+      - Polizei rufen?
+      - Call the police?
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/Kartenspiel
+      TermType: 0
+      Description: 
+      Languages:
+      - "- Von deinem Haus aus nach rechts\n\n- Dem Weg folgen bis zur alten Buche\n\n-
+        Dann den linken Weg nehmen\n\n- Die Kurve nach links bis zum See im Herzen
+        der Stadt\n\n- Der Stra\xDFe Richtung Norden folgen, bis zum kleinen Kiosk\n\n-
+        Richtung Nord-Ost, geradeaus bis zum Ende der Stadt\n\n- Richtung S\xFCden,
+        entlang bis zu einem kleinen Weg\n\n- Folge diesem Weg bis du zum Brunnen
+        kommst\n\n- Weiter Richtung S\xFCden bis du zum Hochhaus kommst\n\n- Nimm
+        jetzt die Diagonale in Richtung S\xFCd-Ost\n  bis du die alte Statue siehst\n\n-
+        \xDCberquere den Fluss in Richtung Osten\n\n- Folge der Stra\xDFe bis rechts
+        von dir ein kleiner Weg abgeht\n\n- An der n\xE4chsten Kreuzung musst du weiter
+        nach Osten\n\n- Direkt am Weg liegt das alte Lagerhaus im Wald,\n  dort werde
+        ich anzutreffen sein"
+      - "- From your house to the right\n\n- Follow the path to the old beech tree\n\n-
+        Then take the left path\n\n- Take the bend to the left until you reach the
+        lake in \n  the heart of the town\n\n- Follow the road north until you reach
+        a small kiosk\n\n- Go north-east, straight ahead to the end of the town\n\n-
+        Follow the road to the south until you reach a small path\n\n- Follow this
+        path until you come to the fountain\n\n- Continue south until you come to
+        the skyscraper\n\n- Now take the diagonal path to the southeast\n  until you
+        see the old statue\n\n- Cross the river to the east\n\n- Follow the road until
+        you see a small path on your right\n\n- At the next crossing you have to go
+        further east\n\n- Directly at the path is the old warehouse in the forest,\n
+        \ that's where I'll be"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/Akte_tredici
+      TermType: 0
+      Description: 
+      Languages:
+      - "<align=\"center\"><size=26><b>Die Tredici</b></size></align>\n\n\nDie Tredici
+        sind eine national agierende Verbrecherorganisation, welche sich auf Drogenhandel,
+        Schutzgelderpressung und Menschenhandel spezialisiert hat.\n \nIhre Urspr\xFCnge
+        stehen in Verbindung mit Antonino Calderone selbst. Doch anders als ihre italienischen
+        Vorbilder beschr\xE4nken sich die Tredici nicht auf eine spezifische Stadt,
+        sondern sind im ganzen Land aktiv. Auch ihr Name ist italienisch und bedeutet
+        \u201Edreizehn\u201C. Dieser Name ist auf die dreizehn gro\xDFen Familien
+        und damit die dreizehn \u201ECapi\u201C, welche die Familienoberh\xE4upter
+        darstellen bezogen. \n\nAuch in meiner Stadt gibt es einen Capo, doch seine
+        Identit\xE4t ist ein Mysterium und seine Machenschaften sind unm\xF6glich
+        zur\xFCckzuverfolgen. Unter den Capi stehen die Koordinatoren. Sie sind die
+        Arme und Augen der Bosse und koordinieren alle kriminellen Aktivit\xE4ten.
+        Sie schulden niemandem au\xDFer den Capi Rechenschaft und sind extrem vorsichtig.\n\nIn
+        all den Jahren in denen ich die Tredici jage ist es mir einmal gelungen einen
+        Koordinator zu fassen. Doch durch Bestechung und Erpressung kam er schon nach
+        wenigen Tagen wieder frei. Sp\xE4testens seitdem bin ich ein begehrtes Ziel
+        der Tredici.\n\nDoch ich werde weiterhin ein J\xE4ger sein und mich nicht
+        zum gejagten machen lassen. Auch die Tredici wissen, dass niemand gef\xE4hrlicher
+        ist als ein Mann, der nichts mehr zu verlieren hat. \n\nAls n\xE4chstes kommen
+        die H\xE4ndler. Sie setzen die Pl\xE4ne der Koordinatoren um, versorgen die
+        Verk\xE4ufer mit Drogen und die Schl\xE4ger mit Waffen. \n\nUnten in der Rangfolge
+        stehen die Verk\xE4ufer und Schl\xE4ger. Sie sind \xFCberall und bringen die
+        Drogen an den Mann, oder treiben die Schutzgelder ein. Ich habe bereits \xFCber
+        zwanzig von ihnen gefasst, doch f\xFCr jeden den ich hinter Gittern bringe
+        scheinen zwei Neue aufzutauchen. \n\nDie Tredici sind die gr\xF6\xDFte Plage
+        dieser Stadt und ich werde sie alle zur Rechenschaft ziehen. Der Capo wird
+        daf\xFCr bezahlen was er getan hat. Und daf\xFCr was er mich zwang zu tun. "
+      - "<align=\"center\"><size=26><b>The Tredici</b></size></align>\n\n\nThe Tredici
+        are a nationally active criminal organisation specialising in drug trafficking,
+        protection racketing and human trafficking.\n \nTheir origins are connected
+        with Antonino Calderone himself. But unlike their Italian role models, the
+        Tredici are not limited to a specific city, but are active throughout the
+        country. Their name is also Italian and means \"thirteen\". This name is related
+        to the thirteen large families and thus the thirteen \"capi\", which represent
+        the heads of the families. \n\nThere is a Capo in my town too, but his identity
+        is a mystery and his machinations are impossible to trace. Among the Capi
+        are the coordinators. They are the arms and eyes of the bosses and coordinate
+        all criminal activities. They are not accountable to anyone but the Capi and
+        are extremely careful.\n\nIn all the years in which I have hunted the Tredici
+        I have only once succeeded in catching a coordinator. But through bribery
+        and blackmail he was released after only a few days. Since then, at the latest,
+        I have been a sought-after target of the Tredici.\n\nBut I will continue to
+        be a hunter and will not let myself be made the hunted. Even the Tredici know
+        that no one is more dangerous than a man who has nothing left to lose. \n\nThe
+        traders will come next. They implement the coordinators' plans, supply the
+        vendors with drugs and the thugs with weapons. \n\nAt the bottom of the pile
+        are the vendors and the thugs. They're everywhere, moving the drugs or collecting
+        the protection money. I've already caught over twenty of them, but for every
+        one I put behind bars, two new ones seem to pop up. \n\nThe Tredici are the
+        biggest plague in this city and I will bring them all to justice. The capo
+        will pay for what he did. And for what he made me do. "
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/Mastervolume
+      TermType: 0
+      Description: 
+      Languages:
+      - Master
+      - Master
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/Voicevolume
+      TermType: 0
+      Description: 
+      Languages:
+      - Stimme
+      - Voice
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/Musikvolume
+      TermType: 0
+      Description: 
+      Languages:
+      - Musik
+      - Music
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Texte/Welcome
+      TermType: 0
+      Description: 
+      Languages:
+      - "Vielen Dank, dass du Schritte im Schatten gestartet hast.\n\nDieses Spiel
+        entstand im Zuge des Projektstudiums an der Hochschule Furtwangen.\n\nWir
+        bedanken uns bei allen freiwilligen Helfern, die dieses Spiel erst in dieser
+        Form m\xF6glich gemacht haben.\n\n\n\n\n\n\n\nDr\xFCcke deine Lieblingstaste,
+        um zu starten\u2026"
+      - "Thanks for starting Schritte im Schatten.\n\nThis game was developed as part
+        of a project at Furtwangen University.\n\nWe would like to thank all volunteers
+        who made this game possible.\n\n\n\_\n\n\n\n\nPress your favourite key to
+        start..."
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/Achtzig
+      TermType: 0
+      Description: 
+      Languages:
+      - 80er
+      - 1980s
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/Alltag
+      TermType: 0
+      Description: 
+      Languages:
+      - Alltag
+      - Everyday Life
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS001
+      TermType: 0
+      Description: 
+      Languages:
+      - Dortmunder Rheinturm fertiggestellt
+      - Dortmund Rhine Tower completed
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS002
+      TermType: 0
+      Description: 
+      Languages:
+      - Explosion in Hamburger Schuppen
+      - Explosion in hamburger shed
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS003
+      TermType: 0
+      Description: 
+      Languages:
+      - "Lachs f\xE4llt Mann in den Nacken"
+      - Salmon falls on man's neck
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS004
+      TermType: 0
+      Description: 
+      Languages:
+      - Feuerwehr rettet Mutter aus McDonald's Rutsche
+      - Fire department rescues mother from McDonald's slide
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS005
+      TermType: 0
+      Description: 
+      Languages:
+      - "Feuerwehr feiert 70 J\xE4hriges Jubil\xE4um"
+      - Fire brigade celebrates 70th anniversary
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS006
+      TermType: 0
+      Description: 
+      Languages:
+      - Autounfall durch blendende Uhr veruhrsacht
+      - Car accident caused by blinding watch
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS007
+      TermType: 0
+      Description: 
+      Languages:
+      - Gangster lernt im Knast Hagebuttentee lieben
+      - Gangster learns to love rosehip tea in jail
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS008
+      TermType: 0
+      Description: 
+      Languages:
+      - "Puderzucker unges\xFCnder als Rohrzucker?"
+      - Icing sugar less healthy than cane sugar?
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS009
+      TermType: 0
+      Description: 
+      Languages:
+      - Zehn Abnehmtipps von Cindy Crawford
+      - Ten weight loss tips from Cindy Crawford
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS010
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gef\xE4hrliche Chemikalien in Hundefutter entdeckt"
+      - Dangerous chemicals discovered in dog food
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS011
+      TermType: 0
+      Description: 
+      Languages:
+      - "Rasenm\xE4her m\xE4ht Mann in die Hand"
+      - Lawn mower mows man the hand
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS012
+      TermType: 0
+      Description: 
+      Languages:
+      - "Menschen die viel Saft trinken leben l\xE4nger"
+      - People who drink a lot of juice live longer
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS013
+      TermType: 0
+      Description: 
+      Languages:
+      - "Unbekannte \xFCberfallen Tankstelle"
+      - Unknown assault on gas station
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS014
+      TermType: 0
+      Description: 
+      Languages:
+      - "Einbruch in Juweliersgesch\xE4ft"
+      - Burglary in jeweller's shop
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS015
+      TermType: 0
+      Description: 
+      Languages:
+      - Skandal im Sperrbezirk
+      - Scandal in the restricted area
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS016
+      TermType: 0
+      Description: 
+      Languages:
+      - Mann mit Plastikbesteckmesser erstochen
+      - Man stabbed to death with plastic cutlery
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS017
+      TermType: 0
+      Description: 
+      Languages:
+      - "Junger Mann in altem Schlachthof get\xF6tet"
+      - Young man killed in old slaughterhouse
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS018
+      TermType: 0
+      Description: 
+      Languages:
+      - "Kreditkartenbetr\xFCger gefasst"
+      - Credit card fraudsters caught
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS019
+      TermType: 0
+      Description: 
+      Languages:
+      - Ranziges Fett in Frittenbude verwendet
+      - Rancid fat used in fryer
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS020
+      TermType: 0
+      Description: 
+      Languages:
+      - Diebe klauen 300 Kilo Statue
+      - Thieves steal 300 kg statue
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS021
+      TermType: 0
+      Description: 
+      Languages:
+      - "Mann l\xF6st unfreiwillig Polizeieinsatz aus"
+      - Man involuntarily triggers police action
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS022
+      TermType: 0
+      Description: 
+      Languages:
+      - Unbekannte klauen Alpaka aus Zoo
+      - Unknown persons steal alpaca from zoo
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS023
+      TermType: 0
+      Description: 
+      Languages:
+      - Mann in Sporthose und Lackschuhen klaut Basketballkorb
+      - Man in sports pants and patent leather shoes steals basketball hoop
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS024
+      TermType: 0
+      Description: 
+      Languages:
+      - Mafiaboss "Lucianeddu" verhaftet
+      - Mafia boss "Lucianeddu" arrested
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS025
+      TermType: 0
+      Description: 
+      Languages:
+      - "Baseballschl\xE4ger Angreifer schl\xE4gt wieder zu"
+      - Baseball bat attacker strikes again
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS026
+      TermType: 0
+      Description: 
+      Languages:
+      - "Deutsch-T\xFCrken klauen 200kg Gold"
+      - German-Turks steal 200kg gold
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS027
+      TermType: 0
+      Description: 
+      Languages:
+      - "Goldr\xE4uber beim Versuch Mantel zu vergolden erwischt"
+      - Gold thief caught trying to gild coat
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS028
+      TermType: 0
+      Description: 
+      Languages:
+      - "Nordafrikaner bel\xE4stigen Frauen am Marktplatz"
+      - North Africans harassing women in the marketplace
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS029
+      TermType: 0
+      Description: 
+      Languages:
+      - "Mann beim Beintraining mit Baseballschl\xE4ger geschlagen"
+      - Man beaten with baseball bat during leg training
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS030
+      TermType: 0
+      Description: 
+      Languages:
+      - "Junger Mann erneut wegen Rucksack verpr\xFCgelt"
+      - Young man beaten up over backpack again
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS031
+      TermType: 0
+      Description: 
+      Languages:
+      - "Junger Mann wegen Rucksack verpr\xFCgelt"
+      - Young man beaten up over backpack
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS032
+      TermType: 0
+      Description: 
+      Languages:
+      - 3 Rezepte mit Lauch von Otto Koch
+      - 3 recipes with leek from Otto Koch
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS033
+      TermType: 0
+      Description: 
+      Languages:
+      - Fast geschafft, Fastenzeit ist bald vorbei
+      - Almost done, Lent will soon be over
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS034
+      TermType: 0
+      Description: 
+      Languages:
+      - "Bauarbeiter fr\xFChst\xFCckt Frikadelle und Salamibaguette"
+      - Construction worker has breakfast meatball and salami baguette
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS035
+      TermType: 0
+      Description: 
+      Languages:
+      - "20 Jahre j\xFCnger? Faltencreme im Test"
+      - 20 years younger? Wrinkle cream in test
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS036
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ratte kocht Gem\xFCseeintopf"
+      - Rat cooks vegetable stew
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS037
+      TermType: 0
+      Description: 
+      Languages:
+      - "Steinbeisser in Zitronenso\xDFe Rezept"
+      - Spined loach in lemon sauce recipe
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS038
+      TermType: 0
+      Description: 
+      Languages:
+      - Klempner auf Suche nach Freundin in Rohr stecken geblieben
+      - Plumber stuck in pipe looking for girlfriend
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS039
+      TermType: 0
+      Description: 
+      Languages:
+      - "Wird mal ein ganz gro\xDFer: Hans Sarpei geboren"
+      - 'When a great one is born: Hans Sarpei'
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS040
+      TermType: 0
+      Description: 
+      Languages:
+      - "\xD6rtlicher Kaninchenz\xFCchter ausgezeichnet"
+      - Local rabbit breeder awarded
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS041
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gesch\xE4ftsmann erzeugt Mondfinsternis durch Bizeps"
+      - Businessman creates lunar eclipse with his biceps
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS042
+      TermType: 0
+      Description: 
+      Languages:
+      - Klaus Cleber? Mann fragt sich wer das ist
+      - Klaus Cleber? Man wonders who that is
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS043
+      TermType: 0
+      Description: 
+      Languages:
+      - "Mann bestellt t\xFCrkische Spezialit\xE4ten immer komplett"
+      - Man orders Turkish specialities always complete
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS044
+      TermType: 0
+      Description: 
+      Languages:
+      - Chabos wissen wer der Babo ist
+      - Chabos know who the Babo is
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS045
+      TermType: 0
+      Description: 
+      Languages:
+      - Der Steinkauz Vogel des Jahres
+      - The Little Owl Bird of the Year
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS046
+      TermType: 0
+      Description: 
+      Languages:
+      - Frau verliert Finger bei Dachsangriff
+      - Woman loses fingers in badger attack
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS047
+      TermType: 0
+      Description: 
+      Languages:
+      - "Kr\xE4henplage sorgt f\xFCr Missernten"
+      - Crow plague causes crop failure
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS048
+      TermType: 0
+      Description: 
+      Languages:
+      - "Queen Elizabeth II feiert silbernes Thronjubil\xE4um"
+      - Queen Elizabeth II celebrates silver jubilee
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS049
+      TermType: 0
+      Description: 
+      Languages:
+      - "Franz\xF6sischer Altpr\xE4sident de Gaule gestorben"
+      - French former president de Gaule died
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS050
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ronald Reagan 40. Pr\xE4sindent der Vereinigten Staaten"
+      - Ronald Reagan 40th President of the United States
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS051
+      TermType: 0
+      Description: 
+      Languages:
+      - Die Mauer ist gefallen
+      - The wall has fallen
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS052
+      TermType: 0
+      Description: 
+      Languages:
+      - Freiburg Marathon wegen schlechtem Wetter abgesagt
+      - Freiburg Marathon cancelled due to bad weather
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS053
+      TermType: 0
+      Description: 
+      Languages:
+      - "Arnold Schwarzenegger zu Mr. Universum gew\xE4hlt"
+      - Arnold Schwarzenegger elected Mr. Universe
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS054
+      TermType: 0
+      Description: 
+      Languages:
+      - "M\xF6nchengladbach beendet Bayern M\xFCnchens Meisterserie"
+      - "M\xF6nchengladbach ends Bayern Muinich's title series"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS055
+      TermType: 0
+      Description: 
+      Languages:
+      - "Fanh\xE4nel zum 7. Mal Deutscher Schwergewichtsmeister"
+      - "Fanh\xE4nel for the 7th time German Heavyweight Champion"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS056
+      TermType: 0
+      Description: 
+      Languages:
+      - Kanuten kenntern im Rhein
+      - Knowing canoeists in the Rhine
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS057
+      TermType: 0
+      Description: 
+      Languages:
+      - "Marokkaner macht Bankdr\xFCcken mit Handr\xFCcken"
+      - Moroccan does bench press with back of hand
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS058
+      TermType: 0
+      Description: 
+      Languages:
+      - Neue Heidi-Serie wird ausgestrahlt
+      - New Heidi series to be broadcast
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS059
+      TermType: 0
+      Description: 
+      Languages:
+      - "\"Krieg der Sterne\" r\xE4umt sieben Oscars ab"
+      - Star Wars wins seven Oscars
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS060
+      TermType: 0
+      Description: 
+      Languages:
+      - "Otto Waalkes ver\xF6ffentlicht neues Album"
+      - Otto Waalkes releases new album
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS061
+      TermType: 0
+      Description: 
+      Languages:
+      - "Modern Talking ver\xF6ffentlicht zweites Album"
+      - Modern Talking releases second album
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS062
+      TermType: 0
+      Description: 
+      Languages:
+      - "Louis st\xFCrzt von Leiter"
+      - Louis falls off a ladder
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS063
+      TermType: 0
+      Description: 
+      Languages:
+      - Walt Disney's Dschungelbuch Verkaufsschlager
+      - Walt Disney's Jungle Book bestseller
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS064
+      TermType: 0
+      Description: 
+      Languages:
+      - "Elvis Presley ver\xF6ffentlicht neues Album"
+      - Elvis Presley releases new album
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS065
+      TermType: 0
+      Description: 
+      Languages:
+      - "M\xFCller, neuer Vorstand von Stein-Elektronik"
+      - "M\xFCller, new board member of Stein-Elektronik"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS066
+      TermType: 0
+      Description: 
+      Languages:
+      - Kakaoprodukte bald deutlich teurer
+      - Cocoa products much more expensive soon
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS067
+      TermType: 0
+      Description: 
+      Languages:
+      - "Coca Cola f\xFChrt Fanta Zitrone und Apfel ein"
+      - Coca Cola introduces Fanta lemon and apple
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS068
+      TermType: 0
+      Description: 
+      Languages:
+      - "\xD6lpreis auf Rekordhoch"
+      - Oil price at record high
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/AMS069
+      TermType: 0
+      Description: 
+      Languages:
+      - Mobiltelefone erobern den Kommunikationsmarkt
+      - Mobile phones conquer the communications market
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/aufgearbeitet
+      TermType: 0
+      Description: 
+      Languages:
+      - Aufgearbeitet?
+      - Reopened?
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/Datum
+      TermType: 0
+      Description: 
+      Languages:
+      - Datum
+      - Date
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/Entfernung
+      TermType: 0
+      Description: 
+      Languages:
+      - Entfernung
+      - Distance
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/ermittelt
+      TermType: 0
+      Description: 
+      Languages:
+      - Wird Ermittelt?
+      - Under Investigation?
+      Flags: 0000
+      Languages_Touch: []
+    - Term: "Archivspiel/erw\xE4hnung"
+      TermType: 0
+      Description: 
+      Languages:
+      - "Letzte Erw\xE4hnung"
+      - Last Mention
+      Flags: 0000
+      Languages_Touch: []
+    - Term: "Archivspiel/gel\xF6st"
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gel\xF6st?"
+      - Solved?
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/gering
+      TermType: 0
+      Description: 
+      Languages:
+      - gering
+      - low
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/Gesundheit
+      TermType: 0
+      Description: 
+      Languages:
+      - Gesundheit
+      - Healthcare
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/hoch
+      TermType: 0
+      Description: 
+      Languages:
+      - hoch
+      - high
+      Flags: 0000
+      Languages_Touch: []
+    - Term: "Archivspiel/Kriminalit\xE4t"
+      TermType: 0
+      Description: 
+      Languages:
+      - "Kriminalit\xE4t"
+      - Crime
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/Menschen
+      TermType: 0
+      Description: 
+      Languages:
+      - Menschen
+      - People
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/mittel
+      TermType: 0
+      Description: 
+      Languages:
+      - mittel
+      - medium
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/Natur
+      TermType: 0
+      Description: 
+      Languages:
+      - Natur
+      - Nature
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/Neunzig
+      TermType: 0
+      Description: 
+      Languages:
+      - 90er
+      - 1990s
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/Politik
+      TermType: 0
+      Description: 
+      Languages:
+      - Politik
+      - Politics
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/Siebzig
+      TermType: 0
+      Description: 
+      Languages:
+      - 70er
+      - 1970s
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/Sport
+      TermType: 0
+      Description: 
+      Languages:
+      - Sport
+      - Sports
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/Unterhaltung
+      TermType: 0
+      Description: 
+      Languages:
+      - Unterhaltung
+      - Entertainment
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/Unterhaltungswert
+      TermType: 0
+      Description: 
+      Languages:
+      - Unterhaltungswert
+      - Entertainment Value
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/Wirtschaft
+      TermType: 0
+      Description: 
+      Languages:
+      - Wirtschaft
+      - Economy
+      Flags: 0000
+      Languages_Touch: []
+    - Term: "Archivspiel/zur\xFCcksetzen"
+      TermType: 0
+      Description: 
+      Languages:
+      - "Alle Filter zur\xFCcksetzen"
+      - Reset All Filter
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/Login
+      TermType: 5
+      Description: 
+      Languages:
+      - login_Norm_BG
+      - login_Norm_BG_En
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Archivspiel/Login_fail
+      TermType: 5
+      Description: 
+      Languages:
+      - login_Fail_BG
+      - login_Fail_BG_en
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP0103C01
+      TermType: 0
+      Description: 
+      Languages:
+      - "Und wie sieht seine Frisur aus? <i>Kurze blonde Haare. Keine auff\xE4llige
+        Frisur.</i>"
+      - What`s his hairstyle? <i>Short blonde hair. No flashy hairstyle.</i>
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP0103C02
+      TermType: 0
+      Description: 
+      Languages:
+      - "Welche Gr\xF6\xDFe hat seine Nase? <i>Mhm\u2026 mittelgro\xDFe Nase w\xFCrde
+        ich sagen.</i>"
+      - How large is his nose? Hmm.. <i>I would say he has a middle-sized nose.</i>
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP0103C03
+      TermType: 0
+      Description: 
+      Languages:
+      - "Und\u2026 wie sieht sein Mund aus? <i>Sein Mund ist eher schmal, aber nicht
+        auff\xE4llig breit.</i>"
+      - "and\u2026 what does his mouth look like? <i>His mouth is rather small but
+        not particularly broad.</i>"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP0103C04
+      TermType: 0
+      Description: 
+      Languages:
+      - "Tr\xE4gt er einen Bart? <i>Manchmal hat er einen 3-Tage-Bart.</i>"
+      - Does he wear a beard? <i>Sometimes he has a stubbly face.</i>
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP0103C05
+      TermType: 0
+      Description: 
+      Languages:
+      - "Wie stehen seine Augen? <i>Standard. Nichts Auff\xE4lliges.</i>"
+      - What about his eyes? <i>There`s nothing unusual about them.</i>
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP01C01
+      TermType: 0
+      Description: 
+      Languages:
+      - "Die Eink\xE4ufe erledige ich sp\xE4ter."
+      - I`ll do the shopping later.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP01C02
+      TermType: 0
+      Description: 
+      Languages:
+      - "Mmh nein, ich bin noch nicht m\xFCde."
+      - No I`m not really tired.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP01C09
+      TermType: 0
+      Description: 
+      Languages:
+      - Nein, ich glaube so hat er Lars nicht beschrieben.
+      - I don`t think he would have described Lars like that.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP01C10
+      TermType: 0
+      Description: 
+      Languages:
+      - Sehr gut! Damit sollte ich ihn erkennen, wenn ich ihn finde.
+      - That`s really good. So I know what he looks like when I find him.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP01C11
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ich brauche etwas, um den Zettel daneben zu h\xE4ngen."
+      - Is there anything with which I can hang up a piece of paper?
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP01C12
+      TermType: 0
+      Description: 
+      Languages:
+      - Scheint keiner da zu sein. Aber ich sollte mich da drin trotzdem mal umsehen.
+      - Doesn`t seem to be anybody home. But I should in any case have a look around
+        inside.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP01C13
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ich sollte in mein B\xFCro zur\xFCckkehren und die Informationen auswerten."
+      - I need to go back to my office and weigh up all the information I have.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP01C14
+      TermType: 0
+      Description: 
+      Languages:
+      - "Dieser Bruder\u2026 k\xF6nnte eine Spur sein."
+      - "The brother\u2026 this could be something."
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP01C15
+      TermType: 0
+      Description: 
+      Languages:
+      - "Vielleicht ist er einkaufen\u2026 Nee, dann h\xE4tte er die Liste mitgenommen."
+      - Maybe he`s gone shopping. No he can`t have done. He would have taken the shopping
+        list with him.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP01C16
+      TermType: 0
+      Description: 
+      Languages:
+      - "Dieser Junge\u2026 irgendwo habe ich den schon mal gesehen."
+      - I think I have seen this young man somewhere before.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP01C17
+      TermType: 0
+      Description: 
+      Languages:
+      - Links ist, wo der Daumen ist. Nein, das ging irgendwie anders.
+      - The thumb is on the left-hand side. No that went a different way.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP01C18
+      TermType: 0
+      Description: 
+      Languages:
+      - Entweder Lars kann fliegen, oder ich bin irgendwo falsch abgebogen.
+      - Either Lars can fly or I`ve taken the wrong turning.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP01C19
+      TermType: 0
+      Description: 
+      Languages:
+      - Dort muss es sein. Ich sollte keine Zeit verlieren!
+      - It must be there. I cannot afford to lose time.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP01C20
+      TermType: 0
+      Description: 
+      Languages:
+      - Hier muss es sein.
+      - It must be here.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP01C21
+      TermType: 0
+      Description: 
+      Languages:
+      - Mist! Noch nicht vier.
+      - Oh no! Not four yet.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP01C22
+      TermType: 0
+      Description: 
+      Languages:
+      - Hier wurde gefegt, alles sauber.
+      - Everything here has been swept clean.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP01C23
+      TermType: 0
+      Description: 
+      Languages:
+      - Er hat den Ort seines Todes gefegt?
+      - He cleaned the place where he died?
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP01C24
+      TermType: 0
+      Description: 
+      Languages:
+      - Ich sollte Herrn Obermeier Bescheid geben.
+      - I should pass this information on to Mr. Obermeier.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP01C25
+      TermType: 0
+      Description: 
+      Languages:
+      - Geht doch.
+      - That worked!
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP01C27
+      TermType: 0
+      Description: 
+      Languages:
+      - "Hmm\u2026"
+      - Hmm...
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP01C28
+      TermType: 0
+      Description: 
+      Languages:
+      - "Da die die dum.. Der Kommissar geht um\u2026 oh oh oh"
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP01C29
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ich frage mich\u2026"
+      - I wonder.....
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C01
+      TermType: 0
+      Description: 
+      Languages:
+      - Nein, ich sollte erstmal am Computer recherchieren, wonach ich im Archiv suche.
+      - No. First of all I should use the computer to find out about what I am looking
+        for in the archive.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C02
+      TermType: 0
+      Description: 
+      Languages:
+      - "Zum Gl\xFCck schreibe ich mir Passw\xF6rter immer auf."
+      - Good that I always make a written note of my passwords.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C03
+      TermType: 0
+      Description: 
+      Languages:
+      - Nein, das ist es nicht.
+      - No it`s not that.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C04
+      TermType: 0
+      Description: 
+      Languages:
+      - "Die Dokumentation aller Turniere unseres Schachclubs \u2013 spannend! Aber
+        nicht wonach ich suche."
+      - The documentation of all the competitions of our chess club - interesting!
+        But not what I am looking for.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C05
+      TermType: 0
+      Description: 
+      Languages:
+      - Das Wetter. Von 1980 bis 85.
+      - The weather. From 1980 to 1985.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C06
+      TermType: 0
+      Description: 
+      Languages:
+      - Das ist es! Interessant.
+      - Well then! There it is. Well that `s interesting.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C07
+      TermType: 0
+      Description: 
+      Languages:
+      - Pizza bestellen? Nein, ich habe noch kein Hunger.
+      - Oder a pizza? No. I`m not at all hungry.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C08
+      TermType: 0
+      Description: 
+      Languages:
+      - Ohne entsprechende Nummer kann ich leider niemanden anrufen.
+      - No, sorry. Without knowing the number I can`t ring anybody at all.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C09
+      TermType: 0
+      Description: 
+      Languages:
+      - Soll ein Bestseller sein - aber mir ist es zu trocken.
+      - Is it supposed to be a best seller? It`s as dry as a bone!
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C11
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ich sollte bei der Polizei fragen, ob ich mit diesem Ren\xE9 Kamp sprechen
+        kann."
+      - "I should contact the police and ask if I could speak with Ren\xE9 Kamp."
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C13
+      TermType: 0
+      Description: 
+      Languages:
+      - "Seltsam, er schlie\xDFt seine T\xFCr nicht ab."
+      - He doesn`t lock his door. That`s weird.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C14
+      TermType: 0
+      Description: 
+      Languages:
+      - Ich sollte mich erst einmal hier umsehen.
+      - First of all I should have a good look around here.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C15
+      TermType: 0
+      Description: 
+      Languages:
+      - "Daniel und Gudrun m\xFCssen ihm viel bedeutet haben."
+      - Daniel and Gudrun must have meant an awful lot to him.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C19
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ich kann nichts erkennen und eine Taschenlampe habe ich auch nicht\u2026"
+      - I cannot see anything. I do not even have a torch.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C22
+      TermType: 0
+      Description: 
+      Languages:
+      - Schnell! Ich muss mich verstecken!
+      - Hurry! I have to hide.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C23
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ich sollte die Fotos entwickeln. Vielleicht finde ich dann mehr \xFCber Oskar
+        heraus."
+      - If I develop the pictures I may find out more about Oscar.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C24
+      TermType: 0
+      Description: 
+      Languages:
+      - Nein, ich glaube das geht so nicht.
+      - That doesn`t look as though it is going to work.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C25
+      TermType: 0
+      Description: 
+      Languages:
+      - Irgendwas stimmt hier nicht.
+      - There`s something funny going on here.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C26
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ooh, denk nach Elena, du wei\xDFt doch wie das geht."
+      - Elena use your head! You know how that works.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C27
+      TermType: 0
+      Description: 
+      Languages:
+      - Sehr gut! Mal schauen was Oskar in seinem Keller so treibt.
+      - 'Great! Let`s see what Oscar does in his cellar. (*is doing: Zusammenhang
+        nicht klar)'
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C28_01
+      TermType: 0
+      Description: 
+      Languages:
+      - Da ist Daniel.
+      - There`s Daniel.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C28_02
+      TermType: 0
+      Description: 
+      Languages:
+      - Wer ist das denn?
+      - But who is that then?
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C28_03
+      TermType: 0
+      Description: 
+      Languages:
+      - "Da steht ein Name\u2026 "
+      - There`s a name written there...
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C28_04
+      TermType: 0
+      Description: 
+      Languages:
+      - "mein Gott es ist Ren\xE9 Kamp!"
+      - "Oh my god! It`s Ren\xE9 Kamp!"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C28_05
+      TermType: 0
+      Description: 
+      Languages:
+      - "Wie h\xE4ngen sie zusammen?"
+      - How are those two connected?
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C29_01
+      TermType: 0
+      Description: 
+      Languages:
+      - "Oscar scheint den Mord an seinem Bruder selbst aufgedr\xF6selt zu haben."
+      - It seems as though Oscar has unravelled the murder of his brother on his own.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C30_01
+      TermType: 0
+      Description: 
+      Languages:
+      - "Da ist Ren\xE9 Kamp\u2026"
+      - "That is Ren\xE9 Kamp..."
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C30_02
+      TermType: 0
+      Description: 
+      Languages:
+      - und ein Totenkopf?
+      - and a skull?
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C32_01
+      TermType: 0
+      Description: 
+      Languages:
+      - Ich hab's!
+      - I`ve got it!
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C32_02
+      TermType: 0
+      Description: 
+      Languages:
+      - "Oskar ist w\xFCtend, weil weder die Polizei noch er selbst den Mord aufkl\xE4ren
+        konnten."
+      - Oscar is really angry because neither he nor the police could solve the murder.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C32_03
+      TermType: 0
+      Description: 
+      Languages:
+      - "Auch Ren\xE9, der die Ermittlungen am Mord seines Freundes geleitet hat,
+        ist gescheitert"
+      - "Even Ren\xE9, who led the investigations into the murder of his friend, has
+        failed"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C32_04
+      TermType: 0
+      Description: 
+      Languages:
+      - "und er konnte ihn nicht besch\xFCtzen."
+      - and was unable to protect him.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C32_05
+      TermType: 0
+      Description: 
+      Languages:
+      - "Deshalb hat er sich Ren\xE9 als Opfer ausgesucht"
+      - "That`s why he chose Ren\xE9 as his victim"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C32_06
+      TermType: 0
+      Description: 
+      Languages:
+      - um seinem Frust Luft zu machen.
+      - to vent his frustration
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C33_01
+      TermType: 0
+      Description: 
+      Languages:
+      - "Das Geb\xE4ude kenne ich irgendwo her\u2026"
+      - Hang on a minute, this building seems familiar.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C33_02
+      TermType: 0
+      Description: 
+      Languages:
+      - Genau!
+      - That`s right!
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C33_03
+      TermType: 0
+      Description: 
+      Languages:
+      - Das ist die alte Lagerhalle am Stadtrand.
+      - It is the old warehouse at the edge of the city.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C33_04
+      TermType: 0
+      Description: 
+      Languages:
+      - "Niemand k\xFCmmert sich darum."
+      - No-one has any interest in that.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C33_05
+      TermType: 0
+      Description: 
+      Languages:
+      - "Sogar der Stadt ist es egal\u2026"
+      - Even the city authorities do not care
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/AVP02C33_06
+      TermType: 0
+      Description: 
+      Languages:
+      - "der perfekte Ort f\xFCr einen Mord!"
+      - The perfect place to carry out a murder!
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/IAVP01C01
+      TermType: 0
+      Description: 
+      Languages:
+      - "MacGyver k\xF6nnte daraus sicher was N\xFCtzliches bauen."
+      - I'm sure MacGyver could build something useful from it.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/IAVP01C02
+      TermType: 0
+      Description: 
+      Languages:
+      - Das wird so nichts.
+      - Not in that way though!
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/IAVP01C03
+      TermType: 0
+      Description: 
+      Languages:
+      - "Wenn ich mit ein bisschen Geschick\u2026 nein, doch nicht."
+      - "If I am careful it might work\u2026 no, definitely not."
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/IAVP01C04
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ich bringe mein Messer immer mit zu Schie\xDFereien."
+      - I always have my knife on me by shooting incidents.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/IAVP01C05
+      TermType: 0
+      Description: 
+      Languages:
+      - Meine Nadel. Seit 1980 im Einsatz.
+      - My needle. I`ve been using that since 1980.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/IAVP01C06
+      TermType: 0
+      Description: 
+      Languages:
+      - "Als Privatdetektiv muss man auch mal an der Legalit\xE4t kratzen."
+      - If you are a private detective you are often obliged to behave on the border
+        of what is legal.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/IAVP01C07
+      TermType: 0
+      Description: 
+      Languages:
+      - "Markante Gesichtsz\xFCge. Sollte gut zu finden sein."
+      - Striking facial features. Should be easy to find.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/IAVP01C08
+      TermType: 0
+      Description: 
+      Languages:
+      - "Eine Wegbeschreibung. Aber warum so umst\xE4ndlich?"
+      - Directions. But why so involved and laborious?
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/IAVP01C09
+      TermType: 0
+      Description: 
+      Languages:
+      - "W\xE4re ja ein gro\xDFer Zufall, wenn da der Schl\xFCssel drin w\xE4re."
+      - That would be a massive coincidence if the key was in there.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/IAVP01C10
+      TermType: 0
+      Description: 
+      Languages:
+      - "Das Ganze gef\xE4llt mir immer weniger. Jemand will, dass ich reinkomme."
+      - The whole thing appeals to me less and less. Somebody wants me to enter.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/IAVP02C01
+      TermType: 0
+      Description: 
+      Languages:
+      - Als Journalistin muss ich immer bereit sein den perfekten Moment einzufangen.
+      - As a journalist I have always to be ready to catch exactly the right moment.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Subtitle/IAVP02C03
+      TermType: 0
+      Description: 
+      Languages:
+      - Das Buch aus Oscars Keller. Vielleicht bringt es mich ja weiter.
+      - That`s the book from Oscar`s cellar. Maybe that will help me further.
+      Flags: 0000
+      Languages_Touch: []
+    - Term: AktenSpiel/Akte 271 B
+      TermType: 0
+      Description: 
+      Languages:
+      - "<size=50><b>Akte 271B 17.06.1983</b></size>\n\nDer Mordfall vom 17. Juni
+        1983 <mark=#000000ff>bbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbbbbbbbb</mark>\nEs
+        wurden keine Zeugen gefunden, Mutter und Bruder konnten keinen Verdacht \xE4u\xDFern.
+        Das Opfer arbeitete bei <link=\"Pizza\"><u>Pizzafix</u></link> und hatte keine
+        Vorstrafen.\n<mark=#000000ff>bbbbbbbbbbbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb\nbbbbbb</mark>
+        schlechte <link=\"Juni\"><u>Nachrichten</u></link> <mark=#000000ff>bbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb</mark>
+        deshalb wurden die Ermittlungen am 18. April 1984 eingestellt."
+      - '<size=50><b>File 271B 17.06.1983</b></size>
+
+
+        The murder case of 17 June 1983 <mark=#000000ff>bbbbbbbbbbbbbbbbbbbb
+
+        bbbbbbbbbbbbbbbbbbbbbbbbb
+
+        bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+        bbbbbbbbbbbbbbbbbbbbbbbbbbb</mark>
+
+
+        No witnesses were found, mother and brother could not express any suspicion.
+        The victim worked at <link="Pizza"><u>Pizzafix</u></link> and had no criminal
+        record.
+
+        <mark=#000000ff>bbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+        bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+        bbbbbb</mark> bad <link="Juni"><u>News</u></link> <mark=#000000ff>bbbbbbbbbb
+
+        bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+        bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb</mark> so the investigation was closed
+        on April 18, 1984.'
+      Flags: 0000
+      Languages_Touch: []
+    - Term: AktenSpiel/17Juni
+      TermType: 0
+      Description: 
+      Languages:
+      - "<b>Nachrichten\xFCberblick 17. Juni 1983</b><size=30>\n\n\n+++ Bundesjustizminister
+        Engelhard stellt sein Programm f\xFCr die 10. Legislaturperiode vor. Inhalte
+        sind u.a. die Neuregelung des Demonstrationsstrafrechts und die \xDCberarbeitung
+        des Kontaktsperrgesetzes.+++\n\n+++ Pizzabote ermordet! In der Nacht auf den
+        17. Juni 1983 wurde ein junger Pizzabote in einem alten Schlachthof ermordet.
+        Die Polizei verh\xF6rt derzeit erste <link=\"Verd\xE4chtige\"><u>Verd\xE4chtige</u></link>.
+        Zeugen werden dringend gesucht.+++\n\n+++ Im Rahmen des Deutschlandtreffens
+        der Schlesier in Hannover unter dem Motto: \"Heimat Schlesien - Vaterland
+        Deutschland\" trafen sich etwa 140.000 Menschen.+++\n\n+++ Morgen wird die
+        US-Raumf\xE4hre \"Challenger\" zur Mission \"STS-7\" in den Weltraum starten.
+        Die an Bord befindliche Sally Ride ist die erste US-Astronautin und die insgesamt
+        dritte Frau im Weltraum.+++ </size>"
+      - "<b>News Overview June 17, 1983</b><size=30>\n\n\n+++ Federal Minister of
+        Justice Engelhard presents his programme for the 10th legislative period Contents
+        include, among other things, the revision of the criminal law governing demonstrations
+        and the revision of the contact ban law.+++\n\n+++ pizza delivery boy murdered!
+        On the night of 17 June 1983 a young pizza delivery boy was murdered in an
+        old slaughterhouse. The police are currently questioning the first <link=\"Verd\xE4chtige\"><u>suspect</u></link>.
+        Witnesses are urgently wanted.+++\n\n+++ About 140,000 people met at the German
+        meeting of the Silesians in Hanover under the motto: \"Homeland Silesia -
+        Fatherland Germany\".+++\n\n+++ Tomorrow the US space shuttle \"Challenger\"
+        will launch into space for the \"STS-7\" mission. The Sally Ride on board
+        is the first US astronaut and the third woman in space.+++ </size>"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: AktenSpiel/Pizzafix
+      TermType: 0
+      Description: 
+      Languages:
+      - "<b>Handelt Pizzafix mit Drogen?</b>\n\n<size=30>Die Pizzakette Pizzafix steht,
+        laut dem <link=\"Presse\"><u>Pressesprecher</u></link> der Polizei, unter
+        Verdacht in den lokalen Drogenhandel involviert zu sein. \n\nDieser Verdacht
+        beruhe auf der Zeugenaussage eines Kunden, dessen Bestellung vertauscht wurde.
+        Er soll anstatt einer Pizza auf einmal Kokain in seiner Lieferung erhalten
+        haben, so der Pressesprecher. \n\nDie Polizei hat daraufhin eine <link=\"SOKO\"><u>Sonderkommission</u></link>
+        ins Leben gerufen, welche sich nun eingehend mit den Vorw\xFCrfen, welche
+        sich auch gegen die Inhaber der Fastfoodkette richten, besch\xE4ftigen. Zudem
+        werden unangek\xFCndigte Kontrollen erfolgen, bis sich die Situation gekl\xE4rt
+        hat. \n\nFest steht schon jetzt, dass es ein finanzielles Desaster f\xFCr
+        das seit 1960 bestehende Gro\xDFunternehmen ist und einen bleibenden Makel
+        im, ansonsten immer mit sorgfalt gepflegten, Image des Unternehmens hinterlassen
+        wird. </size>"
+      - "<b>Does Pizza Fix deal drugs?</b>\n\n<size=30>The pizza chain Pizzafix is
+        suspected of being involved in the local drug trade, according to a police
+        \ <link=\"Presse\"><u>spokesman</u></link>. \n\nThis suspicion is based on
+        the testimony of a customer whose order was mixed up. Instead of a pizza,
+        he is said to have suddenly received cocaine in his delivery, according to
+        the spokesman.\n\nAs a result, the police have set up a special <link=\"SOKO\"><u>commission</u></link>,
+        which is now dealing in detail with the preliminary investigations, which
+        are also directed against the owners of the fast food chain. In addition,
+        unannounced inspections will be carried out until the situation is resolved.
+        \n\nIt is already clear that there is a financial disaster for the large company,
+        which has been in existence since 1960, and a permanent flaw in the, otherwise
+        always with carefully cultivated, image of the company is left behind. </size> "
+      Flags: 0000
+      Languages_Touch: []
+    - Term: AktenSpiel/Pressekonferenz
+      TermType: 0
+      Description: 
+      Languages:
+      - "<b>Aufzeichnung Pressekonferenz \"Pizzafix\"</b>\n\n<size=22><b>Journalist:</b>
+        Gibt es bereits neue Erkenntnisse zum Pizzafix-Fall?\n<b>Pressesprecher:</b>
+        Erste Erkenntnisse entlasten die F\xFChrungsriege des Unternehmens. Inwieweit
+        illegale Machenschaften ohne ihr Wissen erfolgten wird zur Zeit noch untersucht.\n<b>Journalist:</b>
+        Das hei\xDFt die Mitarbeiter sollen hinter dem R\xFCcken der Unternehmensleitung
+        gehandelt haben?\n<b>Pressesprecher:</b> Noch ist unklar ob \xFCberhaupt mit
+        illegalen Substanzen gehandelt wurde. Fest steht nur, dass die Leitung wohl
+        nichts davon wei\xDF.\n<b>Journalist:</b> Wie werden die weiteren Schritte
+        der Polizei von nun an aussehen?\n<b>Pressesprecher:</b> Die gebildete Sonderkommission
+        wird zuerst einmal verkleinert. Dann werden gezielt unangek\xFCndigte Kontrollen
+        durchgef\xFChrt um einen Beweis f\xFCr den angeblichen Drogenhandel zu finden.\n<b>Journalist:</b>
+        Wieso geht dies mit einer Verkleinerung der Sonderkommission einher?\n<b>Pressesprecher:</b>
+        Auch den Mitteln der Polizei sind Grenzen gesetzt. Neue F\xE4lle erfordern
+        die volle Aufmerksamkeit der Polizei. Deshalb werden einigen Beamten andere
+        F\xE4lle zugewiesen.\n<b>Journalist:</b> Sprechen sie von F\xE4llen wie dem
+        Schlachthofmord?\n<b>Pressesprecher:</b> Der Mordfall den sie so Bezeichnen
+        hat in der Tat eine h\xF6here Priorit\xE4t. <link=\"271B\"><u>Fall 271B</u></link>
+        wird tats\xE4chlich von einem ehemaligen Beamten der Sonderkommission geleitet.\n<b>Journalist:</b>
+        Wir wissen, dass Herr Kern eine Einbruchsserie untersucht und Herr Herbst
+        weiter in der Sonderkommission t\xE4tig ist. Wer leitet nun die Untesuchung
+        zum Schlachthofmord?\n<b>Pressesprecher:</b> Der Fall wurde einem <link=\"Polizist\"><u>jungen
+        Polizisten</u></link> \xFCbertragen. Es ist zwar sein erster Fall welchen
+        er selbst leiten wird, allerdings hat er sich als einer der taltentiertesten
+        Poizisten in unseren Reihen erwiesen und genie\xDFt deshalb unser vollstes
+        Vertrauen. \nDamit beenden wir die heutige Pressekonferenz. \nVielen Dank
+        f\xFCr ihr Erscheinen. </size>"
+      - "<b>Recording press conference \"Pizzafix</b>\n  \n<size=22><b>Journalist:</b>
+        Are there already new findings on the Pizzafix case?\n<b>Press spokesman:</b>
+        Initial findings relieve the company's management team. To what extent illegal
+        machinations took place without their knowledge is still being investigated.\n<b>Journalist:</b>
+        Are you saying the employees were acting behind management's back?\n<b>Press
+        spokesman:</b> It is still unclear whether illegal substances were traded
+        at all. The only thing that is certain is that the management probably knows
+        nothing about it.\n<b>Journalist:</b> What will be the next steps of the police
+        from now on?\n<b>Press spokesman:</b> The special commission that has been
+        formed will first be reduced in size. Then unannounced checks will be carried
+        out to find evidence of the alleged drug trade.\n<b>Journalist:</b> Why does
+        this go hand in hand with a downsizing of the task force?\n<b>Press spokesman:</b>
+        There are also limits to the resources of the police. New cases require the
+        full attention of the police. Therefore, some officers will be assigned other
+        cases.\n<b>Journalist:</b> Are you talking about cases like the slaughterhouse
+        murder?\n<b>Press spokesman:</b> The murder case that you refer to has indeed
+        a higher priority. <link=\"271B\"><u>Case 271B</u></link> is in fact headed
+        by a former officer of the Special Commission.\n<b>Journalist:</b> We know
+        that Mr. Kern is investigating a series of burglaries and that Mr. Herbst
+        continues to work in the special commission. Who is now leading the investigation
+        into the slaughterhouse murder?\n<b>Spokesperson:</b> The case was assigned
+        to a  <link=\"Polizist\"><u>young police officer</u></link>. Although it is
+        his first case which he will lead himself, he has proven to be one of the
+        most talented policemen in our ranks and therefore enjoys our fullest trust.\nThis
+        concludes today's press conference. \nThank you very much for coming. </size>"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: AktenSpiel/Sonderkommision
+      TermType: 0
+      Description: 
+      Languages:
+      - "<b>Sonderkommission Fall 051PI</b>\n<size=30>Der Restaurantkette <link=\"Pizza\"><u>Pizzafix</u></link>
+        wir vorgeworfen in Drogenhandel involviert zu sein. Um dies zu untersuchen
+        stellt die Verantwortliche Polizeistelle eine Sonderkommission zusammen. Diese
+        besteht aus folgenden Beamten: \n\n<mark=#000000ff>bbbbbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbbbb\n</mark><link=\"Guenther\"><u>G\xFCnther
+        Herbst (PR)</u></link>\n\n<mark=#000000ff>bbbbbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbbbb\n</mark>Manfred
+        Kern (PD)\n\n<mark=#000000ff>bbbbbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbbbb\n\nbbbbbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbbbb</size>\n</mark>"
+      - "<b>Special Commission Case 051PI</b>\n    \n<size=30>The restaurant chain
+        <link=\"Pizza\"><u>Pizzafix</u></link> is accused of being involved in drug
+        trafficking. To investigate, the police department is setting up a special
+        commission. This commission consists of the following officers:\n\n<mark=#000000ff>bbbbbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbbbb\n</mark><link=\"Guenther\"><u>G\xFCnther
+        Herbst (PR)</u></link>\n \n<mark=#000000ff>bbbbbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbbbb\n</mark>Manfred
+        Kern (PD)\n\n<mark=#000000ff>bbbbbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbbbb\n\nbbbbbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbbbb</size>\n</mark> "
+      Flags: 0000
+      Languages_Touch: []
+    - Term: AktenSpiel/Verdacht
+      TermType: 0
+      Description: 
+      Languages:
+      - "<b>Verd\xE4chtigenbefragung zu Fall 271B</b>\n\n<size=13.7>Die folgenden
+        Befragungnen wurden von Ermittlungsleiter <mark=#000000ff>                 </mark>
+        durchgef\xFChrt.\n \n<b>Verd\xE4chtiger 1: Manfred Rembrandt (33 Jahre):</b>\nLeiter:
+        Wissen Sie, warum Sie heute hier sind?\nManfred Rembrandt: N\xF6.\nLeuter:
+        Sie haben das Opfer am Tag vor seinem Tod gesehen.\nManfred: Jop.\nLeiter:
+        Ist Ihnen irgendetwas ungew\xF6hnlicheas an ihm aufgefallen?\nManfred: N\xF6.\nLeiter:
+        Sie wissen, dass sie unter Mordverdacht stehen.\nManfred: Jop.\nLeiter: War
+        das Opfer in Begleitung einer anderen Person?\nManfred: N\xF6.\nLeiter: Geben
+        Sie zu ihn umgebracht zu haben?\nManfred: N\xF6.\nLeiter: Also haben Sie ihn
+        umgebracht?\nManfred: N\xF6.\nLeiter: Sie wissen schon, dass sie mich sehr
+        w\xFCtend machen?\nManfred: Jop.\nLeiter: Wenn sie hier irgendwelche Spielchen
+        treiben bleiben Sie f\xFCr die n\xE4chsten Wochen in Untersuchungshaft, ist
+        das klar?\nManfred: H\xF6ren Sie mal, ich habe ihm am Tag vor seinem Tod an
+        einem Kiosk ein Snickers verkauft und ihn nie wieder gesehen. Ich wei\xDF
+        gar nicht was ich hier mache.\nLeiter: Gut das reicht f\xFCr heute, wir sprechen
+        uns noch mein Freund.\n\n<b>Verd\xE4chtiger 2: Gottfried Gerber (85 Jahre):</b>\nLeiter:
+        Wissen Sie, warum Sie heute hier sind?\nGottfried Gerber: Ja, ich habs seit
+        Monaten im Kreuz. Und Hannelore meint immer nur \"Stell dich nicht so an Gottfried,
+        du bist halt nicht mehr der J\xFCngste.\"\nLeiter: \xC4hh, Sie sind hier weil
+        Sie unter Mordverdacht stehen.\nGerber: Wie bitte? Ich versteh Sie ganz schlecht
+        Doktor. Moment ich mache mein H\xF6rger\xE4t lauter.\nLeiter: Ich bin kein
+        Arzt, ich bin Polizist. Es geht um Mord!\nGerber: Was? Ein Polizist? Das zahlt
+        man 70 Jahre Steuergelder und die k\xF6nnen einem nicht einmal einen Arzt
+        zuweisen.\nLeiter: Kennen Sie einen Daniel Engels?\nGerber: Lassen Sie mich
+        kurz \xFCberlegen. Mhh, nein nie geh\xF6rt.\nLeiter: In meinen Akten steht
+        er hat Jahre lang Ihren Rasen gem\xE4ht.\nGerber: Ja, das stimmt, wissen Sie
+        ich habe es im Kreuz, sonst w\xFCrde ich es ja selbst machen. W\xFCrden Sie
+        mir eine Salbe empfehlen?\nLeiter: Wie ich schon sagte, ich bin Polizist und
+        kein Arzt.\nGerber: Kommen Sie schon, ich verstehe, dass Sie schlecht ausgebildet
+        sind. Aber versuchen Sie doch wenigstens Ihren Job zu machen.\nLeiter: Nunja,
+        er wird nicht mehr Ihren Rasen m\xE4hen, denn er ist tot.\nGerber: Das w\xE4re
+        auch alles kein Problem wenn Sie mir endlich eine funktionierende Salbe verschreiben
+        w\xFCrden. Dann w\xE4re ich wieder Fitt wie ein Sechzigj\xE4hriger Jungspund.\nLeiter:
+        Alles klar, ich habe genug geh\xF6rt.\nGerber: Und wo kann ich mein Rezept
+        abholen?\nLeiter: Auf Wiedersehen!\nGerber: Auf Wiedersehen Herr Doktor.\n\nErgebnis:
+        Die Befragung f\xFChrte zu keinem Ergebnis. Es steht den Verd\xE4chtigen frei
+        mit der <link=\"Interview\"><u>Presse</u></link> zu sprechen. </size>"
+      - "<b>Questioning of suspects in case 271B</b>\n    \n<size=13.7>The following
+        interviews were conducted by the investigator-in-charge <mark=#000000ff>                 </mark>\n
+        \n<b>Suspect 1: Manfred Rembrandt (age 33):</b>\nManager: Do you know why
+        you are here today?\nManfred Rembrandt: Nope.\nLeuter: You saw the victim
+        the day before his death.\nManfred: Jop.\nLeiter: Did you notice anything
+        unusual about him?\nManfred: Nope.\nLeiter: You know you are under suspicion
+        of murder.\nManfred: Jop.\nLeiter: Was the victim accompanied by another person?\nManfred:
+        Nope.\nLeiter: You know that you are under suspicion of murder?\nManfred:
+        Jop.\nLeiter: Do you admit to having killed him?\nManfred: Nope.\nLeiter:
+        So you have killed him?\nManfred: Nope.\nLeiter: You know, you make me very
+        angry?\nManfred: Jop.\nLeiter: If you play any games here, you will stay in
+        custody for the next weeks, is that clear?\nManfred: Listen, I sold him a
+        Snickers the day before his death at a kiosk and never saw him again. I don't
+        know what I am doing here.\nLeiter: Well that's enough for today, we will
+        talk later my friend.\n\n<b>Suspect 2: Gottfried Gerber (85 years old):</b>\nDirector:
+        Do you know why you are here today?\nGottfried Gerber: Yes, I've had it in
+        my back for months. And Hannelore always says, \"Don't be such a baby, Gottfried,
+        you're just not that young anymore.\"\nManager: Uhh, you're here because you're
+        a murder suspect.\nGerber: What? I don't understand you very well doctor.
+        I'll turn up my hearing aid.\nLeiter: I am not a doctor, I am a policeman.
+        This is a murder investigation!\nGerber: What? A policeman? That's what you
+        pay 70 years of tax money, and they can't even assign you a doctor.\nLeiter:
+        Do you know a Daniel Engels?\nGerber: Let me think about it for a second.
+        Mhh, no never heard of him.\nLeiter: In my files you can see he has been mowing
+        your lawn for years.\nGerber: Yes, that's right, you know I have it in my
+        back, otherwise I would do it myself. Would you recommend an ointment?\nLeiter:
+        Like I said, I am a policeman and not a doctor.\nGerber: Come on, I understand
+        that you are poorly trained. But at least try to do your job.\nLeiter: Well,
+        he won't be mowing your lawn anymore, because he is dead.\nGerber: None of
+        this would be a problem if you would finally prescribe me a working ointment.
+        Then I would be fit as a 60 year old boy again.\nLeiter: All right, I've heard
+        enough.\nGerber: And where can I pick up my prescription?\nLeiter: Goodbye!\nGerber:
+        Goodbye doctor.\n\nResult: The questioning led to no result. The suspects
+        are free to talk to  the <link=\"Interview\"><u>Presse</u></link>.</size>"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: AktenSpiel/Interview
+      TermType: 0
+      Description: 
+      Languages:
+      - "<b>Interview mit Verd\xE4chtigen \xFCber den Schlachthofmord</b>\n\n<size=24>\nDer
+        Tageszeitung ist es gelungen die Verd\xE4chtigen im Fall des Schlachthofmordes
+        ausfindig zu machen. Es handelt sich um Manfred R. und Gottfried G.\nGottfried
+        G. konnte uns leider keine Fragen beantworten und bestand darauf, dass unser
+        Redakteur sein Radio repariert. \nMit Manfred R. konnten wir jedoch ein wenig
+        reden:\n\nJournalist: Was sagen Sie zu den Vorw\xFCrfen gegen sich?\nManfred
+        R.: Garnichts.\nJournalist: Wie betroffen waren Sie, als die Polizei bei Ihnen
+        vor der T\xFCr stand?\nManfred: Garnicht.\nLeiter: Was konnten Sie der Polizei
+        \xFCber den Fall sagen?\nManfred: Garnichts.\nLeiter: Wenn Sie nichts sagen
+        konnten, warum wurden Sie verd\xE4chtigt?\nManfred: Weil die Polizisten dort
+        ein Haufen unoganisierter Trottel zu sein scheinen. Man hat fast das Gef\xFChl,
+        dass sie den M\xF6rder gar nicht finden wollen.\nJournalist: Sie finden also,
+        dass die Organisation der Ermittlung ausbauf\xE4hig ist?\nManfred: Wenn Sie
+        es nett ausdr\xFCcken wollen ja. Wie ich das Verstanden habe, ist es die erste
+        Ermittlung, die von <link=\"Rene\"><u>Ren\xE9 Kamp</u></link> geleitet wird.\nJournalist:
+        Sie gehen also davon aus, dass die Ermittlungen an der fehlenden Erfahrung
+        des Ermittlungsleiters scheitern werden?\nManfred: Das kann ich so nicht sagen.
+        Aber es l\xE4uft auf jeden Fall nicht optimal.\nJournalist: Vielen Dank f\xFCr
+        Ihre Einsch\xE4tzung. \n</size>"
+      - "<b>Interview with suspects about the slaughterhouse murder</b>\n  \n<size=24>The
+        daily newspaper has succeeded in locating the suspects in the case of the
+        slaughterhouse murder. They are Manfred R. and Gottfried  G.\nGottfried G.
+        unfortunately could not answer any questions and insisted that our editor
+        repair his radio. \nBut we could talk a little with Manfred R:\n\nJournalist:
+        What do you say to the accusations against you?\nManfred R.: Nothing at all.\nJournalist:
+        How concerned were you when the police came to your door?\nManfred: Not at
+        all.\nLeiter: What could you tell the police about the case?\nManfred: Nothing
+        at all.\nLeiter: If you could not say anything, why were you suspected?\nManfred:
+        Because the policemen there seem to be a bunch of unoganised morons. One almost
+        has the feeling that they don't want to find the murderer at all.\nJournalist:
+        So you think that the organisation of the investigation is expandable?\nManfred:
+        If you want to put it nicely, yes. As I understand it, this is the first investigation
+        which is led by <link=\"Rene\"><u>Ren\xE9 Kamp</u></link>.\nJournalist: So
+        you assume that the investigations will fail because of the lack of experience
+        of the head of the investigation?\nManfred: I can't say so. But in any case
+        it doesn't run optimally.\nJournalist: Thank you very much for your assessment.</size>"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: AktenSpiel/Polizienachwuchs
+      TermType: 0
+      Description: 
+      Languages:
+      - "<b>Absolventen der Polizeischule 1982 :</b>\n\n<size=30>\nDas Bundeskriminalamt
+        gratuliert den diesj\xE4hrigen Absolventen und w\xFCnscht viel Erfolg in der
+        Bevorstehenden Karriere.\n\nHerbert Ackerer\n\n<link=\"Ernst\"><u>Ronald Ernst</u></link>\n\nGeorg
+        Friedrich\n\n<mark=#000000ff>bbbbbbbb</mark> Bl\xF6b\n\nArne Solter\n\nFrank
+        Villmer\n\n<link=\"Zobel\"><u>Manfred Zobel</u></link></size>"
+      - "<b>Graduates of the police school 1982</b>\n\n<size=30>\nThe Federal Criminal
+        Police Office congratulates this year's graduates and wishes them every success
+        in their upcoming career.\n\nHerbert Ackerer\n\n<link=\"Ernst\"><u>Ronald
+        Ernst</u></link>\n\nGeorg Friedrich\n\n<mark=#000000ff>bbbbbbbb</mark> Bl\xF6b\n\nArne
+        Solter\n\nFrank Villmer\n\n<link=\"Zobel\"><u>Manfred Zobel</u></link></size>"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: AktenSpiel/Guenther
+      TermType: 0
+      Description: 
+      Languages:
+      - "<size=32><b>Pizzafix Skandal: Interview mit G\xFCnther Herbst</b>\n</size>\n\n<size=24>\nJournalist:
+        Gibt es neue Erkenntnisse im Pizzafix Fall?\nHerbst: Die bisherige Erkenntnislage
+        entlastet die besagte Restaurantkette.\nJournalist: Also werden die Ermittlungen
+        eingestellt?\nHerbst: Nein, so einfach ist das nicht. Wir werden uns auch
+        weiterhin mit dem Fall besch\xE4ftigen, allerdings werden manche Beamte bei
+        anderen F\xE4llen dringender gebraucht. Also wir ermitteln weiter aber mit
+        weniger Personal im Einsatz.\nJournalist: Hat der Schlachthofmord vom 17.
+        Juni etwas damit zu tun?\nHerbst: Nicht nur dieser Fall besch\xE4ftigt uns
+        zur Zeit, aber ja, einer der Kollegen der bisher in der Sonderkommission war
+        leitet jetzt die Ermittlungen in diesem Fall.\nJournalist: Handelt es sich
+        dabei um Herrn Kern?\nHerbst: Nein, Polizeidirektor Kern widmet sich einem
+        anderen Fall. Im Mordfall vom 17.Juni leitet ein <link=\"Polizist\"><u>junger
+        Kollege</u></link> die Ermittlungen.\nJournalist: So ein wichtiger Fall wird
+        einem so jungen Mann \xFCbertragen? Denken Sie er kann den Erwartungen gerecht
+        werden?\nHerbst: Er hat sich bisher in diversen F\xE4llen als sehr zuverl\xE4ssig
+        und talentiert erwiesen. Wir setzen vollstes Vertrauen in Herrn Kamp.\nJournalist:
+        Vielen Dank f\xFCr das Gespr\xE4ch Herr Herbst und viel Erfolg bei den weiteren
+        Ermittlungen.</size>"
+      - "<size=32><b>Pizzafix scandal: Interview with G\xFCnther Herbst</b></size>\n\n<size=24>\nJournalist:
+        Any new findings in the Pizzafix case?\nAutumn: The current state of knowledge
+        relieves the restaurant chain in question.\nJournalist: So the investigation
+        is closed?\nHerbst: No, it's not that simple. We will continue to work on
+        the case, but some officials are needed more urgently in other cases. So we
+        will continue the investigation but with less staff in the field.\nJournalist:
+        Is the slaughterhouse murder on June 17 related?\nAutumn: Not only this case
+        occupies us at the moment, but yes, one of the colleagues who was previously
+        in the special commission is now leading the investigation in this case.\nJournalist:
+        Is it Mr. Kern?\nHerbst: No, Police Director Kern is devoting himself to another
+        case. In the murder case of 17 June, a <link=\"Polizist\"><u>young colleague</u></link>
+        is heading the investigation.\nJournalist: Such an important case is assigned
+        to such a young man? Do you think he can live up to expectations?\nHerbst:
+        He has so far proven to be very reliable and talented in various cases. We
+        have every confidence in Mr Kamp.\nJournalist: Thank you very much for the
+        interview Mr. Herbst and good luck with the further investigation.</size>"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: AktenSpiel/Ernst
+      TermType: 0
+      Description: 
+      Languages:
+      - "<b>Personalakte Ronald Ernst</b>\n\n<size=30>\nName: Ronald Frederik Ernst\n\nGeburtsdatum:
+        18.02.1960\n\nGeburtsort: Karlsruhe\n\nDienstbeginn: 08.05.1982\n\n\xDCbernommene
+        F\xE4lle: 155K, 272M, 266K, 833F, 227B, 445M, 377K, 224N, 448K\n\nAnmerkungen:
+        Seit 1990 leitete Herr Ernst viele F\xE4lle als Hauptkommissar. Sein Spezialgebiet
+        liegt dabei bei Raub\xFCberf\xE4llen. Dabei leistete er stets herausragende
+        Arbeit bei einer Aufkl\xE4rungsquote von 85 Prozent. \nHerr Ernst galt zu
+        seiner Anfangszeit als der zweit erfolgreichste <link=\"Neu\"><u>Neueinsteiger</u></link>
+        der Polizei und hat sich bis heute zu einer der F\xFChrenden Kr\xE4fte der
+        Polizei entwickelt.\n</size>"
+      - "<b>Personnel file Ronald Ernst</b>\n\n<size=30>\nName: Ronald Frederik Ernst\n\nDate
+        of birth: 18.02.1960\n\nPlace of birth: Karlsruhe\n\nStart of service: 08.05.1982\n\nAccepted
+        cases: 155K, 272M, 266K, 833F, 227B, 445M, 377K, 224N, 448K\n\nComments: Since
+        1990, Mr. Ernst led many cases as Chief Commissioner. His specialty is robbery.
+        Thereby he always did an outstanding job at a clearance rate of 85 percent.
+        \nIn his early days, Mr. Ernst was considered the second most successful <link=\"Neu\"><u>newcomer</u></link>
+        to the police force, and today he has made a name for himself as one of the
+        leading forces in the police force.</size>"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: AktenSpiel/Zobel
+      TermType: 0
+      Description: 
+      Languages:
+      - "<b>Personalakte Manfred Zobel</b>\n\n<size=30>\nName: Manfed Rudolf Zobel\n\nGeburtsdatum:
+        14.08.1958\n\nGeburtsort: Freiburg im Breisgau\n\nDienstbeginn: 08.05.1982\n\n\xDCbernommene
+        F\xE4lle: 244Z, 385I, 488I, 944I\n\nAnmerkungen: Herr Zobel leistet der Polizei
+        seit Jahren stets gute Dienste. 1992 wurde er f\xFCr seine Leistungen in Fall
+        385I ausgezeichnet, bei dem er gestohlene Gegenst\xE4nde im Wert vieler Tausend
+        Mark zur\xFCckbeschaffen konnte. Sein erster gro\xDFer Fall sollte Fall <link=\"271B\"><u>271B</u></link>
+        werden, welchen er jedoch durch einen Unfall nicht leiten konnte und der Fall
+        deshalb an einen jungen Kollegen abgegeben wurde. Herr Zobels Spezialgebiet
+        ist Diebstahlaufkl\xE4rung.</size>"
+      - '<b>Personnel file Manfred Zobel</b>
+
+
+        <size=30>
+
+        Name: Manfed Rudolf Zobel
+
+
+        Date of birth: 14.08.1958
+
+
+        Birthplace: Freiburg im Breisgau
+
+
+        Start of service: 08.05.1982
+
+
+        Cases taken over: 244Z, 385I, 488I, 944I
+
+
+        Comments: Mr. Sable has served the police well for years. In 1992 he was awarded
+        for his services in case 385I, where he was charged with stolen items worth
+        many thousands Mark back. His first big case should be case <link="271B"><u>271B</u></link>,
+        which he could not lead due to an accident and therefore the case was sent
+        to a young colleague. Mr. Zobel''s specialty is theft detection.</size>'
+      Flags: 0000
+      Languages_Touch: []
+    - Term: AktenSpiel/Neueinsteiger
+      TermType: 0
+      Description: 
+      Languages:
+      - "<b>Zeitungsartikel 19. Juni 1983</b>\n\n<size=27>\nDie Kriminalpolizei hat
+        Grund zur Freude. \nDenn die Auszeichnung zum besten Nachwuchsbeamten ging
+        an einen jungen Mann aus Baden-W\xFCrttemberg.\n\nSchon in der Ausbildung
+        zeichnete sich ab, dass aus diesem jungen Mann einmal ein herausragender Polizist
+        werden w\xFCrde, dank dessen Arbeit mehr Sichherheit und Ordnung herrschen
+        wird. Nun ist er seit ein wenig mehr als einem Jahr fester Bestandteil des
+        Kommissariats und hat in dieser kurzen Zeit beachtliches geleistet. \n\nAllein
+        in den vergangenen sechs Monaten hat er Sage und Schreibe zw\xF6lf Festnahmen
+        durchgef\xFChrt. Darunter auch hohe Tiere in der Drogen- und Schwarzmarktszene.
+        \nDurch seine beatlichen Leistungen wurde ihm nun auch eine besondere Ehre
+        zu Teil: \nEr wird den mysteri\xF6sen und blutigen Schlachthofmord vom <link=\"Juni\"><u>17.
+        Juni</u></link> als Ermittlungsleiter \xFCbernehmen. Damit ist er der j\xFCngste
+        Polizist der jemals einen Mordfall geleitet hat.\n\nWir w\xFCnschen ihm nat\xFCrlich
+        nur das Beste und dass er die Verantwortlichen f\xFCr diese blutige Tat schnell
+        zur Rechenschaft ziehen kann.\n\nIn der n\xE4chsten Ausgabe haben wir ein
+        exklusives <link=\"InterviewRene\"><u>Interview</u></link> mit dem jungen
+        Kommissar f\xFCr Sie.</size>"
+      - "<b>Newspaper article 19 June 1983</b>\n\n<size=27>\nThe criminal investigation
+        department has reason to be pleased. \nBecause the award for the best junior
+        officer went to a young man from Baden-W\xFCrttemberg.\n\nEven during his
+        training, it became clear that this young man would one day become an outstanding
+        police officer, thanks to whose work more\nsecurity and order will prevail.
+        He has now been an integral part of the commissariat for a little more than
+        a year, and in this short\ntime. \n\nIn the past six months alone, he has
+        made twelve arrests. Among them are high officials in the drug and black market
+        scene. Due to his beat performances he now also received a special honor:
+        He will be the mysterious\nand bloody abattoir murder on <link=\"Juni\"><u>June
+        17th</u></link> as head of the investigation. This makes him the youngest
+        police officer ever to head a murder case.\n\nOf course we wish him all the
+        best and that he can bring those responsible for this bloody crime to justice
+        quickly.\n\nIn the next issue we have an exclusive <link=\"InterviewRene\"><u>interview</u></link>
+        with the young commissioner for you.</size>"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: AktenSpiel/InterviewRene
+      TermType: 0
+      Description: 
+      Languages:
+      - "<b>Interview mit Ren\xE9 Kamp</b>\n\n<size=20>\nVor wenigen Tagen ist er
+        zum besten Nachwuchsbeamten gew\xE4hlt worden, jetzt hat <link=\"Rene\"><u>Ren\xE9
+        Kamp</u></link> seinen ersten Mordfall \xFCbertragen bekommen. Aus diesem
+        Anlass hat er uns einige Fragen beantwortet.\n\nJournalist: Hallo Herr Kamp,
+        sch\xF6n dass Sie sich Zeit f\xFCr uns genommen haben.\nR. Kamp: Gerne.\n\nJournalist:
+        Sie sind von vielen hohen Stellen geehrt worden, wie denken Sie \xFCber das
+        ganze Lob?\nR. Kamp: Ich bedanke mich nat\xFCrlich f\xFCr die Ehre und das
+        Vertrauen. Allerdings gebe ich nicht sehr viel auf Auszeichnungen. F\xFCr
+        mich z\xE4hlt nur die Leistung und ein Verbrecher mehr hinter Gittern ist
+        mir lieber als ein Preis.\n\nJournalist: Sie sind sehr bescheiden. Viele Kollegen
+        sagen Ihnen eine steile Karriere voraus. Wo sehen Sie sich in zehn Jahren?\nR.
+        Kamp: Hoffentlich auf der Jagd nach einem Gangster.\n\nLeiter: Sie streben
+        also nicht nach hohen Positionen?\nR. Kamp: Wenn Sie mir die Frage vor einer
+        Woche gestellt h\xE4tten, h\xE4tte ich wahrscheinlich gesagt, dass ich vorhabe
+        so weit wie m\xF6glich aufzusteigen. Jetzt will ich eigentlich nur der Arm
+        der Gerechtigkeit sein.\n\nJournalist: Sehr poetisch gesprochen. Woher kommt
+        dieser Sinneswandel?\nR. Kamp: In letzter Zeit habe ich durch meinen Beruf
+        logischerweise aus erster Hand erfahren, was im Untergrund vorgeht und bin
+        jetzt mehr bestrebt denn je dem ein Ende zu setzen.\n\nJournalist: Also sind
+        Sie auch f\xFCr Ihren neuen Fall sehr motiviert. Es wird der erste sein den
+        Sie leiten und dann gleich ein Mordfall. Wie zuversichtlich sind Sie, ihre
+        erste gro\xDFe H\xFCrde zu meistern?\nR. Kamp: Man kann nie mit Sicherheit
+        sagen wie erfolgreich der Fall abgeschlossen werden kann und ich gebe daf\xFCr
+        auch keine Prognosen. Ich werde einfach mein Bestes geben um die Verantwortlichen
+        zur Strecke zu bringen.\n\nJournalist: Bei Ihren F\xE4higkeiten sind wir sehr
+        zuversichtlich, dass Sie auch diese Herausforderung meistern werden. Vielen
+        Dank f\xFCr das Gespr\xE4ch und viel Erfolg bei den Ermittlungen.\n</size>"
+      - "<b>Interview with Ren\xE9 Kamp</b>\n\n<size=20>\nA few days ago he was elected
+        best junior official, now <link=\"Rene\"><u>Ren\xE9 Kamp</u></link> has been
+        assigned his first murder case. On this occasion he has answered a few questions.\n\nJournalist:
+        Hello Mr. Kamp, nice of you to take the time to talk to us.\nR. Kamp: With
+        pleasure.\n\nJournalist: You have been honoured by many high authorities,
+        what do you think about all the praise?\nR. Kamp: Of course I thank you for
+        the honor and trust. However, I don't give much attention to awards. For me,
+        only performance counts, and a criminal more behind bars is better than a
+        prize.\n\nJournalist: You're very modest. Many colleagues predict a steep
+        career for you. Where do you see yourself in ten years?\nR. Kamp: Hopefully
+        on the hunt for a gangster.\n\nLeiter: So you don't aspire to high positions?\nR.
+        Kamp: If you had asked me the question a week ago, I probably would have said
+        that I intend to climb as high as possible. Now I really just want to be the
+        arm of justice.\n\nJournalist: Very poetically spoken. Where does this change
+        of heart come from?\nR. Kamp: Recently, through my profession, I have logically
+        learned first-hand what is going on underground and now I am more anxious
+        than ever to put an end to it.\n\nJournalist: So you are also very motivated
+        for your new case. It will be the first one you lead and then immediately
+        a murder case. How confident are you to overcome your first big hurdle?\nR.
+        Kamp: One can never say for sure how successful the case will be and I don't
+        give any forecasts for that. I will simply do my best to hunt down those responsible.\n\nJournalist:
+        Given your skills, we are very confident that you will also master this challenge.
+        Thank you very much for the interview and good luck with the investigation.\n</size> "
+      Flags: 0000
+      Languages_Touch: []
+    - Term: AktenSpiel/Final
+      TermType: 0
+      Description: 
+      Languages:
+      - "<size=45><b>Ren\xE9 Kamp</b>\n</size>\nDieser Mann hat die Ermittlungen in
+        dem Mordfall geleitet. Er kann mir bestimmt detailliertere Informationen liefern.
+        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<link=\"Zur\xFCck\"><u>zur\xFCck</u></link> "
+      - "<size=45><b>Ren\xE9 Kamp</b>\n</size>\nThis man led the investigation into
+        the murder. I'm sure he can give me more detailed information. \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<link=\"Zur\xFCck\"><u>back</u></link>"
+      Flags: 0000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 1
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: German
+      Code: de
+      Flags: 0
+    - Name: English
+      Code: en
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: https://script.google.com/macros/s/AKfycbyNRVIB0pJxvnDTxnDvZBnia2l-JMLkhUDMP6PH/exec
+    Google_SpreadsheetKey: 1tgcYN-f2gQtRsqLkrZdGHe0XxMyUAnPJPU4KKCDj7Kw
+    Google_SpreadsheetName: I2Loc Schritte im Schatten Localization
+    Google_LastUpdatedVersion: 1613830024525
+    Google_Password: Schritte_im_Schatten
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets:
+    - {fileID: 21300000, guid: 145c393b14fb270419c05e47a99d5a51, type: 3}
+    Spreadsheet_LocalFileName: 
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1

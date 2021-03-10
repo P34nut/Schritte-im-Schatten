@@ -1,0 +1,5 @@
+﻿1
+00:00:00,820 --> 00:00:03,328
+I never leave the house
+without my notebook.
+

@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VideoCollection>
+  <Videos>
+    <Video name="C01S01C">
+      <VideoID>0</VideoID>
+      <Timer>47</Timer>
+      <BlockID>0</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>true</Subtitle>
+      <State>-1</State>
+      <Preloads>
+        <Preload text="C01S02QA.mp4"></Preload>
+        <Preload text="C01S02QB.mp4"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C01S02QA">
+      <VideoID>1</VideoID>
+      <Timer>0</Timer>
+      <BlockID>1</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>false</Subtitle>
+      <State>0</State>
+      <Preloads>
+        <Preload text="C01S03C.mp4"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C01S02QB">
+      <VideoID>2</VideoID>
+      <Timer>0</Timer>
+      <BlockID>1</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>false</Subtitle>
+      <State>0</State>
+      <Preloads>
+        <Preload text="C01S03C.mp4"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C01S03C">
+      <VideoID>3</VideoID>
+      <Timer>5</Timer>
+      <BlockID>2</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>false</Subtitle>
+      <State>-1</State>
+      <Preloads>
+        <Preload text="C01S04QA.mp4"></Preload>
+        <Preload text="C01S04QB.mp4"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C01S04QA">
+      <VideoID>4</VideoID>
+      <Timer>0</Timer>
+      <BlockID>3</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>false</Subtitle>
+      <State>0</State>
+      <Preloads>
+        <Preload text="C01S05C.mp4"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C01S04QB">
+      <VideoID>5</VideoID>
+      <Timer>0</Timer>
+      <BlockID>3</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>false</Subtitle>
+      <State>0</State>
+      <Preloads>
+        <Preload text="C01S05C.mp4"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C01S05C">
+      <VideoID>6</VideoID>
+      <Timer>2</Timer>
+      <BlockID>4</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>false</Subtitle>
+      <State>-1</State>
+      <Preloads>
+        <Preload text="C01S06QA.mp4"></Preload>
+        <Preload text="C01S06QB.mp4"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C01S06QA">
+      <VideoID>7</VideoID>
+      <Timer>0</Timer>
+      <BlockID>5</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>false</Subtitle>
+      <State>0</State>
+      <Preloads>
+        <Preload text="C01S07C.mp4"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C01S06QB">
+      <VideoID>8</VideoID>
+      <Timer>0</Timer>
+      <BlockID>5</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>false</Subtitle>
+      <State>0</State>
+      <Preloads>
+        <Preload text="C01S07C.mp4"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C01S09C">
+      <VideoID>9</VideoID>
+      <Timer>0</Timer>
+      <BlockID>6</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>true</Subtitle>
+      <State>0</State>
+      <Preloads>
+        <Preload text="C02S01C.mp4"></Preload>
+      </Preloads>
+    </Video>
+  </Videos>
+  <Textblock>
+    <Block id="0">
+      <Option>
+        <nextVideoID>1</nextVideoID>
+      </Option>
+      <Option>
+        <nextVideoID>2</nextVideoID>
+      </Option>
+    </Block>
+    <Block id="1">
+      <Option>
+        <nextVideoID>3</nextVideoID>
+      </Option>
+    </Block>
+    <Block id="2">
+      <Option>
+        <nextVideoID>4</nextVideoID>
+      </Option>
+      <Option>
+        <nextVideoID>5</nextVideoID>
+      </Option>
+    </Block>
+    <Block id="3">
+      <Option>
+        <nextVideoID>6</nextVideoID>
+      </Option>
+    </Block>
+    <Block id="4">
+      <Option>
+        <nextVideoID>7</nextVideoID>
+      </Option>
+      <Option>
+        <nextVideoID>8</nextVideoID>
+      </Option>
+    </Block>
+    <Block id="5">
+      <Option>
+        <nextVideoID>9</nextVideoID>
+      </Option>
+    </Block>
+    <Block id="6">
+      <Option>
+        <nextVideoID>-1</nextVideoID>
+      </Option>
+    </Block>
+  </Textblock>
+</VideoCollection>

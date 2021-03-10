@@ -1,0 +1,60 @@
+﻿1
+00:00:02,605 --> 00:00:04,351
+Rene Kamp, private investigator
+
+2
+00:00:04,789 --> 00:00:06,851
+<i>Hello. I am Edgar Obermeier.</i>
+
+3
+00:00:07,320 --> 00:00:09,258
+<i>I am ringing because you need to help me</i>
+
+4
+00:00:09,259 --> 00:00:10,937
+<i>find my good friend Lars.</i>
+
+5
+00:00:11,289 --> 00:00:13,515
+<i>We planned to meet but cannot be contacted.</i>
+
+6
+00:00:14,460 --> 00:00:15,972
+Have you told the police?
+
+7
+00:00:16,238 --> 00:00:19,800
+<i>Oh yes. But they said
+he hasn`t been missing long enough</i>
+
+8
+00:00:19,800 --> 00:00:22,503
+<i> to justify starting a major search.
+He never lets anyone down.</i>
+
+9
+00:00:22,503 --> 00:00:25,839
+<i>Something must have happened to him!
+Please help me.</i>
+
+10
+00:00:26,972 --> 00:00:28,221
+OK.
+
+11
+00:00:30,929 --> 00:00:32,857
+When and where did you see last see him?
+
+12
+00:00:32,882 --> 00:00:35,636
+<i>Yesterday. In his flat in Palmengasse 12.</i>
+
+13
+00:00:35,636 --> 00:00:37,722
+<i>Since then I have heard nothing from him.</i>
+
+14
+00:00:37,722 --> 00:00:41,922
+<i>I went there early today
+but he wasn`t there.</i>
+

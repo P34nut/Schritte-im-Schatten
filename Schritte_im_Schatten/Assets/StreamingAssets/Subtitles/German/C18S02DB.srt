@@ -1,0 +1,13 @@
+﻿1
+00:00:00,813 --> 00:00:02,398
+Oh, dann entschuldigen Sie bitte.
+
+2
+00:00:02,398 --> 00:00:03,796
+Kein Problem.
+
+3
+00:00:06,289 --> 00:00:09,195
+Komisch, ich war doch sicher
+die richtige Nummer gewählt zu haben.
+

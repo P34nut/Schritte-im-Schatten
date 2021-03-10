@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9927aea63236a414abeb3611caa1497d
+timeCreated: 1516247538
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Octin Prison
+  fontNames:
+  - Octin Prison
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

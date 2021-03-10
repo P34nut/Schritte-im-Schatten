@@ -1,0 +1,4 @@
+﻿1
+00:00:06,086 --> 00:00:08,226
+I should leave all possibilities open.
+

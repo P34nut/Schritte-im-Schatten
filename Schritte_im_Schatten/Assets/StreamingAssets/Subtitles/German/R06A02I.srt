@@ -1,0 +1,16 @@
+﻿1
+00:00:04,570 --> 00:00:05,757
+Kein Absender,
+
+2
+00:00:07,359 --> 00:00:08,375
+kein Empfänger.
+
+3
+00:00:10,219 --> 00:00:12,195
+Aber immerhin eine deutliche Spur.
+
+4
+00:00:13,394 --> 00:00:14,756
+Dem sollte ich nachgehen.
+

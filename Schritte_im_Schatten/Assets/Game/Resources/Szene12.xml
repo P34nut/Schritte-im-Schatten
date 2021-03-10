@@ -1,0 +1,73 @@
+<VideoCollection>
+  <Videos>
+    <Video name="C32S22C">
+      <VideoID>0</VideoID>
+      <Timer>0</Timer>
+      <BlockID>0</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>false</Subtitle>
+      <State>0</State>
+      <Preloads>
+        <Preload text="R09L01B"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="R09L01B">
+      <VideoID>1</VideoID>
+      <Timer>0</Timer>
+      <BlockID>1</BlockID>
+      <Loop>true</Loop>
+      <Subtitle>false</Subtitle>
+      <State>2</State>
+      <Preloads>
+        <Preload text="C33S01C"></Preload>
+        <Preload text="R09A05"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="R09A05">
+      <VideoID>2</VideoID>
+      <Timer>0</Timer>
+      <BlockID>0</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>true</Subtitle>
+      <State>0</State>
+      <Preloads>
+        <Preload text="C33S01C"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C33S01C">
+      <VideoID>3</VideoID>
+      <Timer>0</Timer>
+      <BlockID>2</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>true</Subtitle>
+      <State>0</State>
+      <Preloads>
+        <Preload text="S13"></Preload>
+      </Preloads>
+    </Video>
+  </Videos>
+  <Textblock>
+    <Block id="0">
+      <Option>
+        <interactive>false</interactive>
+        <nextVideoID>1</nextVideoID>
+      </Option>
+    </Block>
+    <Block id="1">
+      <Option>
+        <interactive>true</interactive>
+        <nextVideoID>2</nextVideoID>
+      </Option>
+      <Option>
+        <interactive>false</interactive>
+        <nextVideoID>3</nextVideoID>
+      </Option>
+    </Block>
+    <Block id="2">
+      <Option>
+        <interactive>false</interactive>
+        <nextVideoID>-1</nextVideoID>
+      </Option>
+    </Block>
+  </Textblock>
+</VideoCollection>

@@ -1,0 +1,12 @@
+﻿1
+00:00:00,172 --> 00:00:02,008
+I am Eleanor Boehm from the Daily News.
+
+2
+00:00:02,008 --> 00:00:03,835
+I need one file from the archive.
+
+3
+00:00:04,695 --> 00:00:06,031
+Which one?
+

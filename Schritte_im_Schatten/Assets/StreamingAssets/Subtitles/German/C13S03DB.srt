@@ -1,0 +1,13 @@
+﻿1
+00:00:00,367 --> 00:00:02,367
+Ich will einen Artikel
+über den Fall schreiben,
+
+2
+00:00:02,695 --> 00:00:04,516
+aber ich find keine Informationen.
+
+3
+00:00:04,516 --> 00:00:06,312
+Können Sie mir da nicht mehr sagen?
+

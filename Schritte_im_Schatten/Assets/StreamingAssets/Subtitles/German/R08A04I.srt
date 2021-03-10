@@ -1,0 +1,13 @@
+﻿1
+00:00:05,602 --> 00:00:06,875
+Gut gearbeitet.
+
+2
+00:00:08,539 --> 00:00:10,039
+Da ist etwas drin.
+
+3
+00:00:11,852 --> 00:00:14,762
+Sie scheint nur aus aneinander
+geleimten Stücken zu bestehen.
+

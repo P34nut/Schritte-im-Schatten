@@ -1,0 +1,8 @@
+﻿1
+00:00:00,719 --> 00:00:02,265
+Eine kleine Ausnahme?
+
+2
+00:00:03,773 --> 00:00:06,039
+Na gut, Mal schauen ob ich etwas finde.
+

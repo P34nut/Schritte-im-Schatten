@@ -1,0 +1,17 @@
+﻿1
+00:00:00,195 --> 00:00:01,679
+Hello. I am Elena Böhm.
+
+2
+00:00:02,055 --> 00:00:03,757
+I need access to your archives.
+
+3
+00:00:04,664 --> 00:00:06,063
+Ewait a minute, Ms. Böhm.
+
+4
+00:00:06,063 --> 00:00:09,085
+What is it all about? And why do you need
+to gain access to our archives?
+

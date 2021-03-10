@@ -1,0 +1,13 @@
+﻿1
+00:00:00,016 --> 00:00:02,085
+I wish to write an articke
+for the Daily News.
+
+2
+00:00:02,469 --> 00:00:04,539
+This case could be a great story.
+
+3
+00:00:05,938 --> 00:00:08,351
+OK. Let`s see what I can find.
+

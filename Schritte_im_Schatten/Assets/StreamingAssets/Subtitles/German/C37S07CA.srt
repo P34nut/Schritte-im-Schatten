@@ -1,0 +1,25 @@
+﻿1
+00:00:57,281 --> 00:00:58,281
+Hallo?
+
+2
+00:00:58,297 --> 00:01:01,318
+Kommen Sie so schnell es geht
+in die Lagerhalle in der Burgstraße.
+
+3
+00:01:01,343 --> 00:01:03,427
+Ein Mörder ist hier und zwei Leichen.
+
+4
+00:01:04,104 --> 00:01:05,692
+Ja, machen Sie schnell!
+
+5
+00:01:14,365 --> 00:01:17,098
+Keine Angst, ich werd mich stellen.
+
+6
+00:01:17,723 --> 00:01:19,936
+Ich hab schon genug Tot gesehen.
+

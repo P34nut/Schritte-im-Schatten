@@ -1,0 +1,14 @@
+﻿1
+00:00:01,070 --> 00:00:03,881
+Ist Sie umgezogen?
+Haben Sie ihre neue Nummer?
+
+2
+00:00:03,906 --> 00:00:07,631
+Nein, nein. Sie ist gestorben bevor ich
+eingezogen bin. Sie war die Vormieterin.
+
+3
+00:00:07,656 --> 00:00:09,585
+Oh, dann entschuldigen Sie bitte.
+

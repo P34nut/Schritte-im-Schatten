@@ -1,0 +1,8 @@
+﻿1
+00:00:04,867 --> 00:00:05,867
+An axe?
+
+2
+00:00:07,094 --> 00:00:09,054
+No work has been done here for a long time.
+

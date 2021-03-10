@@ -1,0 +1,4 @@
+﻿1
+00:00:07,047 --> 00:00:09,078
+ Wenigstens etwas ist hier zu gebrauchen.
+

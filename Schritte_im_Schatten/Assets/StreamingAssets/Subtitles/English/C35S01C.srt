@@ -1,0 +1,30 @@
+﻿1
+00:00:14,281 --> 00:00:15,281
+Hello?
+
+2
+00:00:15,297 --> 00:00:18,296
+Come as quickly as possible to the
+storehouse in Castle Street.
+
+3
+00:00:18,906 --> 00:00:20,000
+There is a murderer here
+
+4
+00:00:20,150 --> 00:00:22,665
+holding someone under his control.
+
+5
+00:00:23,172 --> 00:00:24,562
+Yeah, hurry up.
+
+6
+00:00:35,332 --> 00:00:36,861
+This man is not guilty.
+
+7
+00:00:36,901 --> 00:00:39,869
+Don`t worry. We know Mr. Kamp.
+We are just taking him in for questioning.
+

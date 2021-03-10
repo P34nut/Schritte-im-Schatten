@@ -1,0 +1,41 @@
+﻿1
+00:00:09,442 --> 00:00:11,848
+<i>Pressestelle der Polizei.
+Was kann ich für Sie tun?</i>
+
+2
+00:00:11,873 --> 00:00:14,558
+Hallo? Hier ist Elena Böhm
+von der Tageszeitung.
+
+3
+00:00:14,559 --> 00:00:17,658
+Ich würde gerne ein Gespräch
+mit Rene Kamp vereinbaren.
+
+4
+00:00:18,008 --> 00:00:20,286
+<i>Kamp? Der arbeitet nicht mehr hier.</i>
+
+5
+00:00:20,287 --> 00:00:22,110
+<i>Der hat vor Jahren gekündigt.</i>
+
+6
+00:00:22,110 --> 00:00:24,167
+Wissen Sie,
+wie ich ihn jetzt erreichen kann?
+
+7
+00:00:24,583 --> 00:00:27,266
+<i>Ich habe gehört,
+dass er eine Privatdetektei betreibt.</i>
+
+8
+00:00:27,266 --> 00:00:29,063
+<i>Versuchen Sie es doch dort Mal.</i>
+
+9
+00:00:29,063 --> 00:00:31,223
+Ok, danke.
+

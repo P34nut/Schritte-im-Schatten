@@ -1,0 +1,12 @@
+﻿1
+00:00:00,367 --> 00:00:02,367
+I wish to write an article about the case
+
+2
+00:00:02,695 --> 00:00:04,516
+but I have found no information.
+
+3
+00:00:04,516 --> 00:00:06,312
+Can you not say more about it?
+

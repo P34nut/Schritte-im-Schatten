@@ -1,0 +1,18 @@
+﻿1
+00:00:12,799 --> 00:00:13,799
+Hello?
+
+2
+00:00:13,958 --> 00:00:16,769
+Come as quickly as possible to the
+storehouse in Castle Street.
+
+3
+00:00:16,927 --> 00:00:19,671
+There are two murderers here
+and one dead body.
+
+4
+00:00:20,234 --> 00:00:21,546
+And get a move on!
+

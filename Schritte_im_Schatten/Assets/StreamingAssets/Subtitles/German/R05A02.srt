@@ -1,0 +1,16 @@
+﻿1
+00:00:12,526 --> 00:00:13,526
+Lars?
+
+2
+00:00:16,628 --> 00:00:18,203
+Sind Sie Zuhause?
+
+3
+00:00:21,453 --> 00:00:23,281
+Hier ist Rene Kamp, ich bin Privatdetektiv.
+
+4
+00:00:23,281 --> 00:00:24,953
+Öffnen Sie mir bitte.
+

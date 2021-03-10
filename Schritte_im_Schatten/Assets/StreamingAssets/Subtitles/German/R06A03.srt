@@ -1,0 +1,10 @@
+﻿1
+00:00:09,810 --> 00:00:13,504
+Soso, der werte
+Herr Obermeier ist Kunstsammler.
+
+2
+00:00:14,665 --> 00:00:17,700
+Das bedeutet,
+er ist eher Lars Kunde als sein Freund.
+

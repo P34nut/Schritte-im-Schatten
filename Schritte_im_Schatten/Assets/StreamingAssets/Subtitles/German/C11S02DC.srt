@@ -1,0 +1,9 @@
+﻿1
+00:00:00,555 --> 00:00:01,679
+Hallo, ich bin Elena.
+
+2
+00:00:01,984 --> 00:00:04,437
+Ok. Mein Name ist Roland.
+Wie kann ich Ihnen weiterhelfen?
+

@@ -1,0 +1,31 @@
+﻿1
+00:00:14,281 --> 00:00:15,281
+Hallo?
+
+2
+00:00:15,297 --> 00:00:18,296
+Kommen Sie so schnell es geht
+zur Lagerhalle in der Burgstraße.
+
+3
+00:00:18,906 --> 00:00:20,000
+Ein Mörder ist hier
+
+4
+00:00:20,150 --> 00:00:22,665
+und er hat eine noch lebende
+Person in seiner Gewalt.
+
+5
+00:00:23,172 --> 00:00:24,562
+Ja, machen Sie schnell.
+
+6
+00:00:35,332 --> 00:00:36,861
+Dieser Mann ist unschuldig.
+
+7
+00:00:36,901 --> 00:00:39,869
+Keine Angst, wir kennen Herrn Kamp.
+Wir nehmen in nur mit zur Befragung.
+

@@ -1,0 +1,9 @@
+﻿1
+00:00:10,951 --> 00:00:12,760
+Rene Kamp, Privatdetektiv.
+
+2
+00:00:12,760 --> 00:00:15,611
+Hallo, Hier ist Elena Böhm
+von der Tageszeitung.
+

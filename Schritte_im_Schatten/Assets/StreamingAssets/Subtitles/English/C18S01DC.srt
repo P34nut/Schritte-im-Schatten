@@ -1,0 +1,8 @@
+﻿1
+00:00:00,781 --> 00:00:02,367
+Is that you Gudrun?
+
+2
+00:00:02,758 --> 00:00:05,398
+No. You have dialled the wrong number.
+

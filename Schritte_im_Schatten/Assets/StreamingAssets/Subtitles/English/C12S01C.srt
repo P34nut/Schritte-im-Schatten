@@ -1,0 +1,39 @@
+﻿1
+00:00:09,442 --> 00:00:11,848
+<i>Police Press Office.
+How can I be of assistance?</i>
+
+2
+00:00:11,873 --> 00:00:14,558
+Hello? This is Elena Böhm
+from the Daily News.
+
+3
+00:00:14,559 --> 00:00:17,658
+I would like to make an appointment
+to speak with Rene Boehm.
+
+4
+00:00:18,008 --> 00:00:20,286
+<i>Kamp? He no longer works here.</i>
+
+5
+00:00:20,287 --> 00:00:22,110
+<i>He resigned his post years ago.</i>
+
+6
+00:00:22,110 --> 00:00:24,167
+Do you know how I might reach him?
+
+7
+00:00:24,583 --> 00:00:27,266
+<i>I heard he runs a private detective agency.</i>
+
+8
+00:00:27,266 --> 00:00:29,063
+<i>Try and contact him there.</i>
+
+9
+00:00:29,063 --> 00:00:31,223
+OK. Thank you.
+

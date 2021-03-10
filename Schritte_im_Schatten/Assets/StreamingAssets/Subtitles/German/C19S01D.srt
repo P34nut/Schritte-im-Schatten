@@ -1,0 +1,14 @@
+﻿1
+00:00:01,344 --> 00:00:03,679
+Ich dachte diese Nummer
+gehört zu Gudrun Engels
+
+2
+00:00:03,703 --> 00:00:06,687
+Gehörte sie auch.
+Doch Frau Engels ist gestorben.
+
+3
+00:00:06,719 --> 00:00:09,187
+Ich bin nach ihr in die Wohnung eingezogen.
+

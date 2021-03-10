@@ -1,0 +1,544 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VideoCollection>
+  <Videos>
+    <Video name="C05S01C">
+      <VideoID>0</VideoID>
+      <Timer>0</Timer>
+      <BlockID>0</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>true</Subtitle>
+      <State>1</State>
+      <Preloads>
+        <Preload text="C05S02DA"></Preload>
+        <Preload text="C05S02DB"></Preload>
+        <Preload text="C05S02DC"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C05S02DA">
+      <VideoID>1</VideoID>
+      <Timer>0</Timer>
+      <BlockID>1</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>true</Subtitle>
+      <State>1</State>
+      <Preloads>
+        <Preload text="C05S03DA"></Preload>
+        <Preload text="C05S03DB"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C05S02DB">
+      <VideoID>2</VideoID>
+      <Timer>0</Timer>
+      <BlockID>1</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>true</Subtitle>
+      <State>1</State>
+      <Preloads>
+        <Preload text="C05S03DA"></Preload>
+        <Preload text="C05S03DB"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C05S02DC">
+      <VideoID>3</VideoID>
+      <Timer>0</Timer>
+      <BlockID>1</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>true</Subtitle>
+      <State>1</State>
+      <Preloads>
+        <Preload text="C05S03DA"></Preload>
+        <Preload text="C05S03DB"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C05S03DA">
+      <VideoID>4</VideoID>
+      <Timer>0</Timer>
+      <BlockID>2</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>true</Subtitle>
+      <State>0</State>
+      <Preloads>
+        <Preload text="C05S04C"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C05S03DB">
+      <VideoID>5</VideoID>
+      <Timer>0</Timer>
+      <BlockID>2</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>true</Subtitle>
+      <State>0</State>
+      <Preloads>
+        <Preload text="C05S04C"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C05S04C">
+      <VideoID>6</VideoID>
+      <Timer>0</Timer>
+      <BlockID>3</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>true</Subtitle>
+      <State>1</State>
+      <Preloads>
+        <Preload text="C05S05DA"></Preload>
+        <Preload text="C05S05DB"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C05S05DA">
+      <VideoID>7</VideoID>
+      <Timer>0</Timer>
+      <BlockID>4</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>true</Subtitle>
+      <State>0</State>
+      <Preloads>
+        <Preload text="C05S06C"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C05S05DB">
+      <VideoID>8</VideoID>
+      <Timer>0</Timer>
+      <BlockID>4</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>true</Subtitle>
+      <State>0</State>
+      <Preloads>
+        <Preload text="C05S06C"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C05S06C">
+      <VideoID>9</VideoID>
+      <Timer>0</Timer>
+      <BlockID>5</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>true</Subtitle>
+      <State>1</State>
+      <Preloads>
+        <Preload text="C05S07DA"></Preload>
+        <Preload text="C05S07DB"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C05S07DA">
+      <VideoID>10</VideoID>
+      <Timer>0</Timer>
+      <BlockID>6</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>true</Subtitle>
+      <State>0</State>
+      <Preloads>
+        <Preload text="C05S08C"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C05S07DB">
+      <VideoID>11</VideoID>
+      <Timer>0</Timer>
+      <BlockID>6</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>true</Subtitle>
+      <State>0</State>
+      <Preloads>
+        <Preload text="C05S08C"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="C05S08C">
+      <VideoID>12</VideoID>
+      <Timer>0</Timer>
+      <BlockID>7</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>true</Subtitle>
+      <State>0</State>
+      <Preloads>
+        <Preload text="R03L01"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="R03L01">
+      <VideoID>13</VideoID>
+      <Timer>0</Timer>
+      <BlockID>8</BlockID>
+      <Loop>true</Loop>
+      <Subtitle>false</Subtitle>
+      <State>2</State>
+      <Preloads>
+        <Preload text="R03T02"></Preload>
+        <Preload text="R03T01A"></Preload>
+        <Preload text="Tür"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="R03T01A">
+      <VideoID>14</VideoID>
+      <Timer>0</Timer>
+      <BlockID>9</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>false</Subtitle>
+      <State>0</State>
+      <Preloads>
+        <Preload text="R03L02"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="R03L02">
+      <VideoID>15</VideoID>
+      <Timer>0</Timer>
+      <BlockID>10</BlockID>
+      <Loop>true</Loop>
+      <Subtitle>false</Subtitle>
+      <State>3</State>
+      <Preloads>
+        <Preload text="R03T01B"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="R03T01B">
+      <VideoID>16</VideoID>
+      <Timer>0</Timer>
+      <BlockID>7</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>false</Subtitle>
+      <State>0</State>
+      <Preloads>
+        <Preload text="R03L01"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="R03T02">
+      <VideoID>17</VideoID>
+      <Timer>0</Timer>
+      <BlockID>11</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>false</Subtitle>
+      <State>0</State>
+      <Preloads>
+        <Preload text="R04L07"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="R04L07">
+      <VideoID>18</VideoID>
+      <Timer>0</Timer>
+      <BlockID>12</BlockID>
+      <Loop>true</Loop>
+      <Subtitle>false</Subtitle>
+      <State>4</State>
+      <Preloads>
+        <Preload text="R04L01"></Preload>
+        <Preload text="R04L05"></Preload>
+        <Preload text="R04L06"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="R04L01">
+      <VideoID>19</VideoID>
+      <Timer>0</Timer>
+      <BlockID>13</BlockID>
+      <Loop>true</Loop>
+      <Subtitle>false</Subtitle>
+      <State>4</State>
+      <Preloads>
+        <Preload text="R04L07"></Preload>
+        <Preload text="R04L02"></Preload>
+        <Preload text="R04L03L"></Preload>
+        <Preload text="R04L03R"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="R04L02">
+      <VideoID>20</VideoID>
+      <Timer>0</Timer>
+      <BlockID>14</BlockID>
+      <Loop>true</Loop>
+      <Subtitle>false</Subtitle>
+      <State>4</State>
+      <Preloads>
+        <Preload text="R04L01"></Preload>
+        <Preload text="R04L05"></Preload>
+        <Preload text="R04A01"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="R04L03R">
+      <VideoID>21</VideoID>
+      <Timer>0</Timer>
+      <BlockID>12</BlockID>
+      <Loop>true</Loop>
+      <Subtitle>false</Subtitle>
+      <State>4</State>
+      <Preloads>
+        <Preload text="R04L01"></Preload>
+        <Preload text="R04L05"></Preload>
+        <Preload text="R04A01"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="R04L05">
+      <VideoID>22</VideoID>
+      <Timer>0</Timer>
+      <BlockID>13</BlockID>
+      <Loop>true</Loop>
+      <Subtitle>false</Subtitle>
+      <State>4</State>
+      <Preloads>
+        <Preload text="R04L07"></Preload>
+        <Preload text="R04L02"></Preload>
+        <Preload text="R04L03L"></Preload>
+        <Preload text="R04L03R"></Preload>      
+      </Preloads>
+    </Video>
+    <Video name="R04L06">
+      <VideoID>23</VideoID>
+      <Timer>0</Timer>
+      <BlockID>16</BlockID>
+      <Loop>true</Loop>
+      <Subtitle>false</Subtitle>
+      <State>4</State>
+      <Preloads>
+        <Preload text="R04L07"></Preload>
+        <Preload text="R04L03L"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="R04A01">
+      <VideoID>24</VideoID>
+      <Timer>0</Timer>
+      <BlockID>15</BlockID>
+      <Loop>true</Loop>
+      <Subtitle>false</Subtitle>
+      <State>4</State>
+      <Preloads>
+        <Preload text="C06S01C"></Preload>
+      </Preloads>
+    </Video>      
+    <Video name="C06S01C">
+      <VideoID>25</VideoID>
+      <Timer>0</Timer>
+      <BlockID>17</BlockID>
+      <Loop>false</Loop>
+      <Subtitle>false</Subtitle>
+      <State>0</State>
+      <Preloads>
+        <Preload text="S4"></Preload>
+      </Preloads>
+    </Video>
+    <Video name="R04L03L">
+      <VideoID>26</VideoID>
+      <Timer>0</Timer>
+      <BlockID>12</BlockID>
+      <Loop>true</Loop>
+      <Subtitle>false</Subtitle>
+      <State>4</State>
+      <Preloads>
+        <Preload text="R04L01"></Preload>
+        <Preload text="R04L05"></Preload>
+        <Preload text="R04L06"></Preload>
+      </Preloads>
+    </Video>
+  </Videos>
+  <Textblock>
+    <Block id="0">
+      <Option>
+        <interactive>false</interactive>
+        <Texte>
+          <Text>Seite 8?</Text>
+          <Text>Page 8?</Text>
+        </Texte>
+        <nextVideoID>1</nextVideoID>
+      </Option>
+      <Option>
+        <interactive>false</interactive>
+        <Texte>
+          <Text>Nicht gut?</Text>
+          <Text>Not good?</Text>
+        </Texte>
+        <nextVideoID>2</nextVideoID>
+      </Option>
+      <Option>
+        <interactive>false</interactive>
+        <Texte>
+          <Text>Weit hinten</Text>
+          <Text>Far back</Text>
+        </Texte>
+        <nextVideoID>3</nextVideoID>
+      </Option>
+    </Block>
+    <Block id="1">
+      <Option>
+        <interactive>false</interactive>
+        <Texte>
+          <Text>Was besser machen?</Text>
+          <Text>Improve what?</Text>
+        </Texte>
+        <nextVideoID>4</nextVideoID>
+      </Option>
+      <Option>
+        <interactive>false</interactive>
+        <Texte>
+          <Text>Nicht gut genug</Text>
+          <Text>Not good enough</Text>
+        </Texte>
+        <nextVideoID>5</nextVideoID>
+      </Option>
+    </Block>
+    <Block id="2">
+      <Option>
+        <interactive>false</interactive>
+        <nextVideoID>6</nextVideoID>
+      </Option>
+    </Block>
+    <Block id="3">
+      <Option>
+        <interactive>false</interactive>
+        <Texte>
+          <Text>Zu spät</Text>
+          <Text>Too late</Text>
+        </Texte>
+        <nextVideoID>7</nextVideoID>
+      </Option>
+      <Option>
+        <interactive>false</interactive>
+        <Texte>
+          <Text>Titelseite</Text>
+          <Text>Front page</Text>
+        </Texte>
+        <nextVideoID>8</nextVideoID>
+      </Option>
+    </Block>
+    <Block id="4">
+      <Option>
+        <interactive>false</interactive>
+        <nextVideoID>9</nextVideoID>
+      </Option>
+    </Block>
+    <Block id="5">
+      <Option>
+        <interactive>false</interactive>
+        <Texte>
+          <Text>Nichts für mich</Text>
+          <Text>Nothing for me</Text>
+        </Texte>
+        <nextVideoID>10</nextVideoID>
+      </Option>
+      <Option>
+        <interactive>false</interactive>
+        <Texte>
+          <Text>Totaler Schwachsinn</Text>
+          <Text>Total nonsense</Text>
+        </Texte>
+        <nextVideoID>11</nextVideoID>
+      </Option>
+    </Block>
+    <Block id="6">
+      <Option>
+        <interactive>false</interactive>
+        <nextVideoID>12</nextVideoID>
+      </Option>
+    </Block>
+    <Block id="7">
+      <Option>
+        <interactive>false</interactive>
+        <nextVideoID>13</nextVideoID>
+      </Option>
+    </Block>
+    <Block id="8">
+        <Option>
+          <interactive>false</interactive>
+          <nextVideoID>17</nextVideoID>
+        </Option>
+        <Option>
+          <interactive>false</interactive>
+          <nextVideoID>14</nextVideoID>
+        </Option>
+    </Block>
+    <Block id="9">
+      <Option>
+        <interactive>false</interactive>
+        <nextVideoID>15</nextVideoID>
+      </Option>
+    </Block>
+    <Block id="10">
+      <Option>
+        <interactive>false</interactive>
+        <nextVideoID>16</nextVideoID>
+      </Option>
+    </Block>
+    <Block id="11">
+      <Option>
+        <nextVideoID>18</nextVideoID>
+        <interactive>false</interactive>
+      </Option>
+    </Block>
+    <Block id="12">
+      <Option>
+        <nextVideoID>19</nextVideoID>
+        <interactive>false</interactive>
+      </Option>
+      <Option>
+        <nextVideoID>22</nextVideoID>
+        <interactive>false</interactive>
+      </Option>
+      <Option>
+        <nextVideoID>23</nextVideoID>
+        <interactive>false</interactive>
+      </Option>    
+    </Block>
+    <Block id="13">
+      <Option>
+        <nextVideoID>18</nextVideoID>
+        <interactive>false</interactive>
+      </Option>
+      <Option>
+        <nextVideoID>20</nextVideoID>
+        <interactive>false</interactive>
+      </Option>
+      <Option>
+        <nextVideoID>21</nextVideoID>
+        <interactive>false</interactive>
+      </Option>
+      <Option>
+        <nextVideoID>26</nextVideoID>
+        <interactive>false</interactive>
+      </Option>  
+    </Block>
+    <Block id="14">
+      <Option>
+        <nextVideoID>19</nextVideoID>
+        <interactive>false</interactive>
+      </Option>
+      <Option>
+        <nextVideoID>22</nextVideoID>
+        <interactive>false</interactive>
+      </Option>
+      <Option>
+        <nextVideoID>24</nextVideoID>
+        <interactive>false</interactive>
+      </Option> 
+    </Block>
+    <Block id="15">
+      <Option>
+        <nextVideoID>25</nextVideoID>
+        <interactive>false</interactive>
+      </Option>
+      <Option>
+        <nextVideoID>20</nextVideoID>
+        <interactive>false</interactive>
+      </Option>
+      <Option>
+        <nextVideoID>23</nextVideoID>
+        <interactive>false</interactive>
+      </Option>
+    </Block>
+    <Block id="16">
+      <Option>
+        <nextVideoID>18</nextVideoID>
+        <interactive>false</interactive>
+      </Option>
+      <Option>
+        <nextVideoID>24</nextVideoID>
+        <interactive>false</interactive>
+      </Option>
+      <Option>
+        <nextVideoID>21</nextVideoID>
+        <interactive>false</interactive>
+      </Option>
+      <Option>
+        <nextVideoID>26</nextVideoID>
+        <interactive>false</interactive>
+      </Option>  
+    </Block>
+    <Block id="17">
+      <Option>
+        <nextVideoID>-1</nextVideoID>
+        <interactive>false</interactive>
+      </Option>
+    </Block>  
+  </Textblock>
+</VideoCollection>

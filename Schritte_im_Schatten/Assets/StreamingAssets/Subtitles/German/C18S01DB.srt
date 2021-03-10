@@ -1,0 +1,12 @@
+﻿1
+00:00:00,555 --> 00:00:01,218
+Hallo?
+
+2
+00:00:01,703 --> 00:00:03,132
+Ist Frau Engels zu sprechen?
+
+3
+00:00:03,461 --> 00:00:05,679
+Nein, die wohnt nicht mehr hier.
+

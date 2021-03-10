@@ -1,0 +1,8 @@
+﻿1
+00:00:00,719 --> 00:00:02,265
+Just one exception?
+
+2
+00:00:03,773 --> 00:00:06,039
+OK. Let`s see what I can find.
+

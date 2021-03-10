@@ -1,0 +1,12 @@
+﻿1
+00:00:00,602 --> 00:00:01,460
+Tut mir leid,
+
+2
+00:00:02,180 --> 00:00:03,938
+ich weiß wirklich nicht wovon Sie sprechen.
+
+3
+00:00:03,938 --> 00:00:05,867
+Kommen Sie schon, helfen Sie mir.
+

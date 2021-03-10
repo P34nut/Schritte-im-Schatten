@@ -1,0 +1,26 @@
+﻿1
+00:00:57,281 --> 00:00:58,281
+Hello?
+
+2
+00:00:58,297 --> 00:01:01,318
+Come as quickly as possible
+to the warehouse in Castle Street.
+
+3
+00:01:01,343 --> 00:01:03,427
+There is a murderer
+and two dead bodies here.
+
+4
+00:01:04,104 --> 00:01:05,692
+Yeah, hurry up.
+
+5
+00:01:14,365 --> 00:01:17,098
+No worries, I`ll give myself up.
+
+6
+00:01:17,723 --> 00:01:19,936
+I`ve seen enough dead bodies.
+

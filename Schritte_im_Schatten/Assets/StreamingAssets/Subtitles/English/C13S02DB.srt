@@ -1,0 +1,9 @@
+﻿1
+00:00:00,102 --> 00:00:03,968
+You led the investigation into the unsolved
+murder which took place ten years ago?
+
+2
+00:00:05,023 --> 00:00:06,625
+I think you have the wrong number.
+

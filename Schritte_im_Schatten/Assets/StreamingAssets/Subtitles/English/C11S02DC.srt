@@ -1,0 +1,9 @@
+﻿1
+00:00:00,555 --> 00:00:01,679
+Hello. I am Elena.
+
+2
+00:00:01,984 --> 00:00:04,437
+OK. My name is Roland.
+How can be of help to you?
+

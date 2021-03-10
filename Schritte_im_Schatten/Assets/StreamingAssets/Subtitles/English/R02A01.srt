@@ -1,0 +1,8 @@
+﻿1
+00:00:18,979 --> 00:00:20,941
+What was the drink before date?
+
+2
+00:00:21,801 --> 00:00:24,769
+Too late now, it doesn`t matte.
+
